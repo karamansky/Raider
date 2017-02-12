@@ -4,16 +4,16 @@
 
 body {
   overflow-x: hidden !important;
-  -webkit-font-smoothing: antialiased; }
+  -webkit-font-smoothing: antialiased;
+  font-family: "PT-Sans-Regular", sans-serif; }
 
 a, a:visited, a:focus {
-  color: #fff;
-  text-decoration: none; }
+  text-decoration: none;
+  outline: none; }
 
 a:hover {
   text-decoration: none;
-  outline: none;
-  color: #1e9dd4; }
+  outline: none; }
 
 a:focus, .btn:focus {
   outline: none;
@@ -22,46 +22,38 @@ a:focus, .btn:focus {
 input:focus, textarea:focus {
   outline: 0; }
 
-h1 {
-  font-size: 50px;
-  line-height: 70px; }
-
 h2 {
-  font-size: 30px;
-  line-height: 35px; }
+  font-size: 40px;
+  line-height: 50px; }
 
 h3 {
-  font-size: 24px;
-  line-height: 25px; }
+  font-size: 28px; }
 
 h4 {
-  font-size: 20px;
-  line-height: 22px; }
+  font-size: 20px; }
 
 p {
-  font-size: 14px;
-  line-height: 15px; }
+  font-size: 18px;
+  line-height: 20px; }
 
 img {
   max-width: 100%;
   height: auto; }
 
-ul, ol {
-  padding-left: 0; }
-
 li {
   list-style: none; }
 
 section {
-  padding: 100px 0;
   position: relative; }
 
-.no-padding {
-  padding-left: 0;
-  padding-right: 0; }
-
-.clear {
-  clear: both; }
+.btn {
+  display: inline-block;
+  font-size: 22px;
+  padding: 13px 25px;
+  background: rgba(19, 143, 139, 0.85);
+  color: #c4e6e5; }
+  .btn:hover {
+    background: #138f8b; }
 
 /*sass styles type here*/
 @media screen and (max-width: 1200px) {

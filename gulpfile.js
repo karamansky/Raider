@@ -66,9 +66,10 @@ gulp.task("minJsLibs", function(){
 	return gulp.src([
 				'src/libs/jquery/dist/jquery.min.js',
 				// 'src/libs/bootstrap-sass/assets/javascripts/bootstrap.min.js',
-				// 'src/libs/owl-carousel/owl-carousel/owl.carousel.min.js',
+				'src/libs/owl-carousel/owl-carousel/owl.carousel.min.js',
 				// 'src/libs/Headhesive.js/dist/headhesive.min.js',
 				'src/libs/magnific-popup/dist/jquery.magnific-popup.min.js',
+				// 'src/libs/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.js',
 				'src/libs/jquery.maskedinput/dist/jquery.maskedinput.min.js'
 	])
 			.pipe(concat("libs.min.js")) // собираем все библиотеки в один файл
@@ -83,6 +84,7 @@ gulp.task("minCssLibs", ['sass'], function(){
 		// 'src/libs/owl-carousel/owl-carousel/owl.carousel.css',
 		// 'src/libs/owl-carousel/owl-carousel/owl.theme.css',
 		// 'src/libs/owl-carousel/owl-carousel/owl.transitions.css',
+		// 'src/libs/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css',
 		'src/libs/magnific-popup/dist/magnific-popup.css'
 	])
 			.pipe(cssnano()) // сжимаем

@@ -4,6 +4,326 @@
 
 
 /*header sass styles type here*/
+.container
+	width: 1455px
+	margin: 0 auto
+	padding-left: 15px
+	padding-right: 15px
+	outline: 1px solid red
+
+#header
+	height: 865px
+	background: #000 url("../images/header-bg1.jpg") center no-repeat
+	background-size: cover
+	position: relative
+	color: #fff
+
+	.overlay
+		padding: 25px 0 0 0
+		position: absolute
+		top: 0
+		left: 0
+		bottom: 0
+		right: 0
+		background: rgba(0, 0, 0, 0.4)
+
+	.header__body a
+		display: inline-block
+		margin-bottom: 175px
+
+	.header__text
+		width: 590px
+		h2
+			font-family: $regular
+			margin-bottom: 30px
+		p
+			font-size: 24px
+			line-height: 32px
+			margin-bottom: 45px
+
+#menu
+	height: 924px
+	background: $green-color url("../images/menu-bg.jpg") center 0px no-repeat
+
+.menu__body
+	position: relative
+	overflow: hidden
+	img
+		width: 1429px
+		height: 760px
+		margin: 83px 0 0 14px
+
+	.menu__item
+		display: inline-block
+		width: 433px
+		height: 375px
+		position: absolute
+		text-align: center
+		color: $light-text-color
+		//background: url("../images/menu-border.png") center no-repeat
+		&:hover
+			color: $leaf-green-color
+			background: url("../images/menu-border.png") center no-repeat
+		h2
+			width: 50%
+			text-align: center
+			text-transform: uppercase
+			padding: 140px 0 0 100px
+
+	.first
+		left: 346px
+		top: 82px
+
+	.second
+		right: 11px
+		top: 82px
+
+	.menu__caption
+		display: inline-block
+		width: 373px
+		height: 375px
+		position: absolute
+		text-align: center
+		color: $light-text-color
+		span
+			font-size: 60px
+			font-family: $bold
+		p
+			font-size: 20px
+			line-height: 26px
+
+	.one
+		left: 40px
+		top: 345px
+
+	.two
+		left: 375px
+		top: 530px
+
+	.three
+		right: 375px
+		top: 345px
+
+	.four
+		right: 42px
+		top: 530px
+
+
+#solution
+	background: #000 url("../images/solution-bg.jpg") center no-repeat
+	height: 940px
+	.solution__body
+		padding: 35px 0
+		overflow: hidden
+		color: $light-text-color
+		h3
+			text-align: center
+			position: relative
+			margin-bottom: 70px
+			&:after
+				content: " "
+				display: block
+				width: 80px
+				height: 1px
+				background: $green-color
+				margin-left: -40px
+				position: absolute
+				left: 50%
+				bottom: -17px
+
+		.left
+			width: 708px
+			float: left
+			overflow: hidden
+
+			.description
+				border: 2px solid $green-color
+				background: rgba(21, 111, 107, .1)
+				padding: 25px 15px
+				max-height: 420px
+				
+			.description__imgBox
+				width: 400px
+				display: table-cell
+				vertical-align: top
+			
+			.description__textBox
+				display: table-cell
+				padding-left: 15px
+				h4
+					color: #cce6c4
+					position: relative
+					margin-bottom: 20px
+					line-height: 25px
+					&:after
+						position: absolute
+						content: " "
+						display: block
+						width: 170px
+						height: 1px
+						left: 0
+						bottom: -10px
+						background: #566d5f
+						background: -moz-linear-gradient(left,  #566d5f 0%, #152928 100%)
+						background: -webkit-linear-gradient(left,  #566d5f 0%,#152928 100%)
+						background: linear-gradient(to right,  #566d5f 0%,#152928 100%)
+						filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#566d5f', endColorstr='#152928',GradientType=1 )
+
+				ul
+					min-height: 160px
+					padding-top: 15px
+					li
+						font-size: 18px
+						line-height: 26px
+
+			.price-box
+				p
+					font-size: 24px
+					margin-bottom: 15px
+					span:first-child
+						color: #cce6c4
+						margin-right: 25px
+
+				.btn
+					font-size: 20px
+					padding: 8px 20px
+
+			.option
+				margin: 45px 0 0 0
+				h4
+					color: #cce6c4
+					margin-bottom: 25px
+
+				li
+					overflow: hidden
+					margin-bottom: 20px
+					.price
+						margin-left: 65px
+
+				input[type=checkbox]
+					display: none
+					
+				label
+					float: left
+					display: block
+					width: 18px
+					height: 18px
+					border: 1px solid $green-color
+					margin: 0 40px 0 30px
+
+				input[type=checkbox]:checked + label:before
+					width: 18px
+					height: 18px
+					display: block
+					content: ""
+					background: url("../images/ok-arrow.png") 2px center no-repeat
+
+		.right
+			width: 706px
+			float: right
+			overflow: hidden
+
+			.tabs
+				position: relative
+				overflow: hidden
+
+			.tabs input
+				display: none
+
+			.tabs label.tab-btn
+				display: block
+				cursor: pointer
+				background: $green-color
+				color: $light-text-color
+				font-size: 20px
+				line-height: 25px
+				font-family: $regular
+				height: 55px
+				position: relative
+				top: 0
+				padding: 15px
+				float: left
+				width: 234px
+				letter-spacing: 1px
+				text-align: center
+				box-sizing: border-box
+				-webkit-transition: all 150ms ease 0s
+				transition: all 150ms ease 0s
+				margin: 4px 2px 0 0
+			#tab3 + label
+				margin-right: 0
+
+			.tabs input:checked + label.tab-btn
+				background: #138f8b
+				height: 59px
+				margin-top: 0
+				line-height: 33px
+				cursor: pointer
+
+			.tabs .tab
+				display: none
+				padding: 5px 10px
+				clear: left
+
+			.tabs .content
+				max-height: 700px
+				height: auto
+				width: 100%
+				float: left
+				position: relative
+				padding: 15px 0px 15px 20px
+				background: rgba(21, 111, 107, .1)
+				border: 2px solid $green-color
+				box-sizing: border-box
+				.scroll
+					max-height: 660px
+
+			.tabs input:nth-of-type(1):checked ~ .content .tab:nth-of-type(1),
+			.tabs input:nth-of-type(2):checked ~ .content .tab:nth-of-type(2),
+			.tabs input:nth-of-type(3):checked ~ .content .tab:nth-of-type(3)
+				display: block
+
+			.mCSB_scrollTools .mCSB_draggerRail
+				width: 4px
+				background: $green-color
+
+		.check-wrapper
+			display: table-cell
+			vertical-align: middle
+			text-align: center
+
+			input[type=checkbox]
+				display: none
+
+			label.chkbox
+				float: left
+				display: block
+				width: 18px
+				height: 18px
+				border: 1px solid $green-color
+				margin: 0 40px 0 30px
+
+			input[type=checkbox]:checked + label:before
+				width: 18px
+				height: 18px
+				display: block
+				content: ""
+				background: url("../images/ok-arrow.png") 2px center no-repeat
+
+		.desc-wrap
+			vertical-align: top
+			display: table-cell
+
+
+
+
+
+
+
+
+
+
+
 
 
 

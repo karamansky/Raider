@@ -9,7 +9,7 @@
   <!-- Картинка появляющаяся в социальных сетях, при отправке ссылки на сайт в сообщении или на стену -->
   <meta property="og:image" content="images/apple-touch-icon-144.jpg">
   <!-- init viewport -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
   <!-- Icon For Apple Devices -->
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/apple-touch-icon-144.jpg">
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon-72.jpg">
@@ -26,22 +26,171 @@
   <!-- stylesheets -->
   <link rel="stylesheet" href="css/header.css">
   <link rel="stylesheet" href="css/libs.css">
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.min.css">
+  <link rel="stylesheet" href="css/owl.transitions.min.css">
+  <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
 
-  <title>	title	</title>
+  <title>	RaideR Workshop | Сборка компьютеров	</title>
   
 </head>
 <body>
 
+<section id="header">
+  <div class="overlay">
+    <div class="container">
+      <div class="header__body">
 
-	<h1>Hello, World!</h1>
+        <a href="#"><img src="images/logo.png" alt="RaideR Workshop Logo"></a>
+
+        <div class="header__text">
+          <h2>Выполни задачу. Воплоти мечту</h2>
+          <p>Мы поможем вам подобрать оптимальное решение для ваших нужд или же предоставить вам максимальную производительность за каждую вложенную сумму средств.</p>
+          <a href="#" class="btn">Подробнее</a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="menu">
+  <div class="container">
+    <div class="menu__body">
+      <img src="images/menu-layer.png" alt="">
+      <a href="#" class="menu__item first">
+        <h2>СОБРАТЬ компьютер</h2>
+      </a>
+      <a href="#" class="menu__item second">
+        <h2>ГОТОВЫЕ рЕшения</h2>
+      </a>
+
+      <div class="menu__caption one">
+        <span>#1</span>
+        <p>Поможем воссоздать уникальный внешний вид вашего ПК исходя из ваших вкусов и опираясь на вашу фантазию</p>
+      </div>
+      <div class="menu__caption two">
+        <span>#2</span>
+        <p>Используя наш опыт в построении компьютерных систем, вы получаете адаптированный для ваших нужд ПК</p>
+      </div>
+      <div class="menu__caption three">
+        <span>#3</span>
+        <p>Мы гарантируем обслуживание наших продуктов, а так же программного обеспечения в течении 3 лет</p>
+      </div>
+      <div class="menu__caption four">
+        <span>#4</span>
+        <p>Используя новейшие комплектующие мы добились максимальной стабильности и длительного срока эксплуатации ваших систем</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section id="solution">
+  <div class="container">
+    <div class="solution__body">
+      <h3>ГОТОВЫЕ РЕШЕНИЯ</h3>
+
+      <div class="left">
+        <div class="description">
+          <div class="description__imgBox">
+            <img src="images/case1.png" alt="">
+          </div>
+          <div class="description__textBox">
+            <h4>КОМПЬЮТЕР Antey G43</h4>
+            <p>Игровой компьютер</p>
+            <ul>
+              <li>Intel Core i3-2120 3,3GHz</li>
+              <li>RAM 8 Gb DDR-1600 MHz dual</li>
+              <li>HDD 500 Gb 7200rpm</li>
+              <li>GeForce GTX 650 1024Mb DDR5</li>
+            </ul>
+            <div class="price-box">
+              <p><span>ИТОГО:</span><span class="price">7500</span> грн.</p>
+              <a href="#" class="btn">Оформить заказ</a>
+            </div>
+          </div>
+        </div>
+        <div class="option">
+          <h4>ДОПОЛНИТЕЛЬНЫЕ ОПЦИИ</h4>
+          <ul>
+            <li><input type="checkbox" id="check1"><label for="check1"></label>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing. <span class="price">1500</span> грн.</p>
+            </li>
+            <li><input type="checkbox" id="check2"><label for="check2"></label>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing. <span class="price">500</span> грн.</p>
+            </li>
+            <li><input type="checkbox" id="check3"><label for="check3"></label>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing. <span class="price">2500</span> грн.</p>
+            </li>
+            <li><input type="checkbox" id="check4"><label for="check4"></label>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing. <span class="price">3500</span> грн.</p>
+            </li>
+            <li><input type="checkbox" id="check5"><label for="check5"></label>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing. <span class="price">6500</span> грн.</p>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="right">
+        <div class="tabs">
+          <input type="radio" checked name="tab" id="tab1">
+          <label class="tab-btn" for="tab1">Для дома</label>
+
+          <input type="radio" name="tab" id="tab2">
+          <label class="tab-btn" for="tab2">Для офиса</label>
+
+          <input type="radio" name="tab" id="tab3">
+          <label class="tab-btn" for="tab3">Для игр</label>
+
+          <div class="content">
+            <div class="tab">
+              <div class="scroll">
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="checkbox" id="ck1">
+                    <label for="ck1" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, voluptatem!</p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+            <div class="tab">
+              sample content 2
+            </div>
+            <div class="tab">
+              sample content 3
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
 
 <!-- styles -->
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/magnific-popup.min.css">
 
+
 <!-- scripts -->
-  <script src="js/libs.min.js"></script>
-  <script src="js/common.js"></script>
+<script src="js/libs.min.js"></script>
+<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+
+
+<script src="js/common.js"></script>
 
 
 </body>
