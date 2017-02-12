@@ -5,34 +5,27 @@
 
 /*header sass styles type here*/
 .container
-	width: 1455px
+	max-width: 1455px
+	min-width: 1170px
 	margin: 0 auto
 	padding-left: 15px
 	padding-right: 15px
 	outline: 1px solid red
 
 #header
-	height: 865px
+	height: auto
+	padding: 25px 0 0 0
 	background: #000 url("../images/header-bg1.jpg") center no-repeat
 	background-size: cover
 	position: relative
 	color: #fff
-
-	.overlay
-		padding: 25px 0 0 0
-		position: absolute
-		top: 0
-		left: 0
-		bottom: 0
-		right: 0
-		background: rgba(0, 0, 0, 0.4)
 
 	.header__body a
 		display: inline-block
 		margin-bottom: 175px
 
 	.header__text
-		width: 590px
+		width: 40.55%
 		h2
 			font-family: $regular
 			margin-bottom: 30px
@@ -42,8 +35,8 @@
 			margin-bottom: 45px
 
 #menu
-	height: 924px
 	background: $green-color url("../images/menu-bg.jpg") center 0px no-repeat
+	padding-bottom: 65px
 
 .menu__body
 	position: relative
@@ -111,7 +104,6 @@
 
 #solution
 	background: #000 url("../images/solution-bg.jpg") center no-repeat
-	height: 940px
 	.solution__body
 		padding: 35px 0
 		overflow: hidden
@@ -132,7 +124,7 @@
 				bottom: -17px
 
 		.left
-			width: 708px
+			width: 49%
 			float: left
 			overflow: hidden
 
@@ -143,13 +135,13 @@
 				max-height: 420px
 				
 			.description__imgBox
-				width: 400px
+				width: 50%
 				display: table-cell
 				vertical-align: top
 			
 			.description__textBox
 				display: table-cell
-				padding-left: 15px
+				padding-left: 12%
 				h4
 					color: #cce6c4
 					position: relative
@@ -197,8 +189,18 @@
 				li
 					overflow: hidden
 					margin-bottom: 20px
-					.price
-						margin-left: 65px
+					.tr
+						display: table-row
+						vertical-align: top
+					.td
+						display: table-cell
+						vertical-align: top
+					.td:last-child
+						width: 25%
+						padding-left: 11.34%
+
+					//.price
+
 
 				input[type=checkbox]
 					display: none
@@ -219,7 +221,7 @@
 					background: url("../images/ok-arrow.png") 2px center no-repeat
 
 		.right
-			width: 706px
+			width: 49%
 			float: right
 			overflow: hidden
 
@@ -227,10 +229,13 @@
 				position: relative
 				overflow: hidden
 
-			.tabs input
+			.tab__item
+				border-bottom: 1px solid $green-color
+
+			input
 				display: none
 
-			.tabs label.tab-btn
+			label.tab-btn
 				display: block
 				cursor: pointer
 				background: $green-color
@@ -243,56 +248,62 @@
 				top: 0
 				padding: 15px
 				float: left
-				width: 234px
+				width: 33.333333%
 				letter-spacing: 1px
 				text-align: center
 				box-sizing: border-box
 				-webkit-transition: all 150ms ease 0s
 				transition: all 150ms ease 0s
-				margin: 4px 2px 0 0
+				margin: 4px 0 0 0
+				border-right: 1px solid #000
 			#tab3 + label
-				margin-right: 0
+				border-right: 0
 
-			.tabs input:checked + label.tab-btn
+			input:checked + label.tab-btn
 				background: #138f8b
 				height: 59px
 				margin-top: 0
 				line-height: 33px
 				cursor: pointer
 
-			.tabs .tab
+			.tab
 				display: none
 				padding: 5px 10px
 				clear: left
 
-			.tabs .content
+			.content
 				max-height: 700px
 				height: auto
 				width: 100%
 				float: left
 				position: relative
-				padding: 15px 0px 15px 20px
+				padding: 15px 0 15px 20px
 				background: rgba(21, 111, 107, .1)
 				border: 2px solid $green-color
 				box-sizing: border-box
 				.scroll
 					max-height: 660px
 
-			.tabs input:nth-of-type(1):checked ~ .content .tab:nth-of-type(1),
-			.tabs input:nth-of-type(2):checked ~ .content .tab:nth-of-type(2),
-			.tabs input:nth-of-type(3):checked ~ .content .tab:nth-of-type(3)
+			input:nth-of-type(1):checked ~ .content .tab:nth-of-type(1),
+			input:nth-of-type(2):checked ~ .content .tab:nth-of-type(2),
+			input:nth-of-type(3):checked ~ .content .tab:nth-of-type(3)
 				display: block
 
 			.mCSB_scrollTools .mCSB_draggerRail
 				width: 4px
 				background: $green-color
 
+			.tab__item
+				padding-top: 15px
+				&:first-child
+					padding-top: 0
+
 		.check-wrapper
 			display: table-cell
 			vertical-align: middle
 			text-align: center
 
-			input[type=checkbox]
+			input[type=radio]
 				display: none
 
 			label.chkbox
@@ -301,9 +312,9 @@
 				width: 18px
 				height: 18px
 				border: 1px solid $green-color
-				margin: 0 40px 0 30px
+				margin: 0 25px 0 0
 
-			input[type=checkbox]:checked + label:before
+			input[type=radio]:checked + label:before
 				width: 18px
 				height: 18px
 				display: block
@@ -313,7 +324,75 @@
 		.desc-wrap
 			vertical-align: top
 			display: table-cell
+			p
+				line-height: 22px
+				margin-bottom: 10px
+				&:nth-child(2)
+					color: #386362
 
+			a
+				color: $yellow-color
+				font-size: 18px
+				line-height: 22px
+				display: inline-block
+				margin-bottom: 18px
+				&:hover
+					text-decoration: underline
+
+		.price-wrap
+			width: 110px
+			display: table-cell
+			vertical-align: middle
+			padding-left: 25px
+			font-size: 22px
+			line-height: 20px
+
+		.additional__desc
+			display: none
+			background: $green-color
+			position: absolute
+			left: 0
+			right: 0
+			top: 0
+			bottom: 0
+			padding: 15px 22px
+			overflow: hidden
+			a
+				display: inline-block
+				float: right
+
+			h4
+				padding-top: 40px
+				color: $yellow-color
+				position: relative
+				display: inline-block
+				&:after
+					position: absolute
+					content: " "
+					display: block
+					width: 280px
+					height: 1px
+					left: 0
+					bottom: -11px
+					background: #566d5f
+					background: -moz-linear-gradient(left,  #5b9c8d 0%, #146d6b 100%)
+					background: -webkit-linear-gradient(left,  #5b9c8d 0%,#146d6b 100%)
+					background: linear-gradient(to right,  #5b9c8d 0%,#146d6b 100%)
+					filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5b9c8d', endColorstr='#146d6b',GradientType=1 )
+
+			.desc__table
+				margin-top: 28px
+				.tr
+					display: table-row
+					.td
+						width: 50%
+						display: table-cell
+						color: $light-text-color
+						font-size: 18px
+						line-height: 22px
+						padding-bottom: 5px
+						&:last-child
+							color: #082525
 
 
 

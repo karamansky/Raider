@@ -10,10 +10,6 @@
   <meta property="og:image" content="images/apple-touch-icon-144.jpg">
   <!-- init viewport -->
   <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
-  <!-- Icon For Apple Devices -->
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/apple-touch-icon-144.jpg">
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon-72.jpg">
-  <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon-144.jpg">
 
   <link rel="stylesheet" href="css/fonts.css">
 
@@ -37,19 +33,17 @@
 <body>
 
 <section id="header">
-  <div class="overlay">
-    <div class="container">
-      <div class="header__body">
+  <div class="container">
+    <div class="header__body">
 
-        <a href="#"><img src="images/logo.png" alt="RaideR Workshop Logo"></a>
+      <a href="#"><img src="images/logo.png" alt="RaideR Workshop Logo"></a>
 
-        <div class="header__text">
-          <h2>Выполни задачу. Воплоти мечту</h2>
-          <p>Мы поможем вам подобрать оптимальное решение для ваших нужд или же предоставить вам максимальную производительность за каждую вложенную сумму средств.</p>
-          <a href="#" class="btn">Подробнее</a>
-        </div>
-
+      <div class="header__text">
+        <h2>Выполни задачу. Воплоти мечту</h2>
+        <p>Мы поможем вам подобрать оптимальное решение для ваших нужд или же предоставить вам максимальную производительность за каждую вложенную сумму средств.</p>
+        <a href="#" class="btn">Подробнее</a>
       </div>
+
     </div>
   </div>
 </section>
@@ -116,20 +110,40 @@
         <div class="option">
           <h4>ДОПОЛНИТЕЛЬНЫЕ ОПЦИИ</h4>
           <ul>
-            <li><input type="checkbox" id="check1"><label for="check1"></label>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing. <span class="price">1500</span> грн.</p>
+            <li>
+              <div class="tr">
+                <div class="td"><input type="checkbox" id="check1"><label for="check1"></label></div>
+                <div class="td"><p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p></div>
+                <div class="td"><p><span class="price">1500</span> грн.</p></div>
+              </div>
             </li>
-            <li><input type="checkbox" id="check2"><label for="check2"></label>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing. <span class="price">500</span> грн.</p>
+            <li>
+              <div class="tr">
+                <div class="td"><input type="checkbox" id="check2"><label for="check2"></label></div>
+                <div class="td"><p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p></div>
+                <div class="td"><p><span class="price">1500</span> грн.</p></div>
+              </div>
             </li>
-            <li><input type="checkbox" id="check3"><label for="check3"></label>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing. <span class="price">2500</span> грн.</p>
+            <li>
+              <div class="tr">
+                <div class="td"><input type="checkbox" id="check3"><label for="check3"></label></div>
+                <div class="td"><p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p></div>
+                <div class="td"><p><span class="price">1500</span> грн.</p></div>
+              </div>
             </li>
-            <li><input type="checkbox" id="check4"><label for="check4"></label>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing. <span class="price">3500</span> грн.</p>
+            <li>
+              <div class="tr">
+                <div class="td"><input type="checkbox" id="check4"><label for="check4"></label></div>
+                <div class="td"><p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p></div>
+                <div class="td"><p><span class="price">1500</span> грн.</p></div>
+              </div>
             </li>
-            <li><input type="checkbox" id="check5"><label for="check5"></label>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing. <span class="price">6500</span> грн.</p>
+            <li>
+              <div class="tr">
+                <div class="td"><input type="checkbox" id="check5"><label for="check5"></label></div>
+                <div class="td"><p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p></div>
+                <div class="td"><p><span class="price">1500</span> грн.</p></div>
+              </div>
             </li>
           </ul>
         </div>
@@ -151,28 +165,417 @@
               <div class="scroll">
                 <div class="tab__item">
                   <div class="check-wrapper">
-                    <input type="checkbox" id="ck1">
+                    <input type="radio" name="computer" id="ck1">
                     <label for="ck1" class="chkbox"></label>
                   </div>
                   <div class="desc-wrap">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat, voluptatem!</p>
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck2">
+                    <label for="ck2" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck3">
+                    <label for="ck3" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck4">
+                    <label for="ck4" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck5">
+                    <label for="ck5" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
                   </div>
                 </div>
               </div>
+            </div>
 
+            <div class="tab">
+              <div class="scroll">
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck1">
+                    <label for="ck1" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck2">
+                    <label for="ck2" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck3">
+                    <label for="ck3" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck4">
+                    <label for="ck4" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck5">
+                    <label for="ck5" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+              </div>
             </div>
             <div class="tab">
-              sample content 2
+              <div class="scroll">
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck1">
+                    <label for="ck1" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck2">
+                    <label for="ck2" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck3">
+                    <label for="ck3" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck4">
+                    <label for="ck4" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+
+                <div class="tab__item">
+                  <div class="check-wrapper">
+                    <input type="radio" name="computer" id="ck5">
+                    <label for="ck5" class="chkbox"></label>
+                  </div>
+                  <div class="desc-wrap">
+                    <p>
+                      Игровой компьютер Antey G43 является
+                      сбалансированным решением для любых игр. Используя
+                      компьютер Antey G43 вы сможете комфортно играть в
+                      современные игры.
+                    </p>
+                    <p class="desc__processor">Intel Core i3-2120 (3.3 ГГц) / RAM 8 Gb / HDD 500 Gb</p>
+                    <a href="id1" class="description__info">Подробное описание</a>
+                  </div>
+                  <div class="price-wrap">
+                    <span>99 000</span> грн.
+                  </div>
+                </div>
+              </div>
             </div>
-            <div class="tab">
-              sample content 3
+          </div>
+
+          <div class="additional__desc" id="id1">
+            <a href="#" class="close_description" title="Закрыть"><img src="images/close_icon.png" alt="close"></a>
+            <h4>Игровой компьютер ARTLINE Gaming X55 v02</h4>
+            <div class="desc__table">
+              <div class="tr">
+                <div class="td">
+                  Процессор:
+                </div>
+                <div class="td">
+                  Четырехъядерный Intel Core i5-4460 (3.2 - 3.4 ГГц)
+                </div>
+              </div>
+              <div class="tr">
+                <div class="td">
+                  Объем оперативной памяти:
+                </div>
+                <div class="td">
+                  8 Гб
+                </div>
+              </div>
+              <div class="tr">
+                <div class="td">
+                  Тип видеокарты и обьем видеопамяти:
+                </div>
+                <div class="td">
+                  Дискретная, nVIdia GeForce GTX 750 Ti,
+                  2 ГБ выделенной видеопамяти
+                </div>
+              </div>
+              <div class="tr">
+                <div class="td">
+                  Чипсет материнской платы:
+                </div>
+                <div class="td">
+                  Intel B85
+                </div>
+              </div>
+              <div class="tr">
+                <div class="td">
+                  Объем HDD:
+                </div>
+                <div class="td">
+                  1 Тб + SSD 120 Гб
+                </div>
+              </div>
+              <div class="tr">
+                <div class="td">
+                  Мощность БП:
+                </div>
+                <div class="td">
+                  500 Вт
+                </div>
+              </div>
+              <div class="tr">
+                <div class="td">
+                  Аудио:
+                </div>
+                <div class="td">
+                  8-канальный HDA кодек Realtek
+                  ALC887-VD2
+                </div>
+              </div>
+              <div class="tr">
+                <div class="td">
+                  Тип памяти:
+                </div>
+                <div class="td">
+                  DDR3 1600 МГц
+                </div>
+              </div>
+              <div class="tr">
+                <div class="td">
+                  Оптический привод:
+                </div>
+                <div class="td">
+                  DVD+/-RW
+                </div>
+              </div>
+              <div class="tr">
+                <div class="td">
+                  Порты:
+                </div>
+                <div class="td">
+                  На передней панели:<br>
+                  1 х USB 2.0<br>
+                  1 х USB 3.0<br>
+                  Выход для наушников<br>
+                  Вход для микрофона<br>
+                  На задней панели:<br>
+                  2 x PS/2<br>
+                  4 x USB 2.0<br>
+                  2 x USB 3.0<br>
+                  1 x VGA<br>
+                  1 x DVI<br>
+                  1 x HDMI<br>
+                  1 x LAN (RJ-45)<br>
+                  3 x Аудио разъема<br>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-
-
       </div>
-
     </div>
   </div>
 </section>
