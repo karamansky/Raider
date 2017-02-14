@@ -21,7 +21,11 @@ $(function(){
 		items					: 1,
 		loop					:true,
 		navigation		:true,
-		navText 			: ["",""]
+		navText 			: ["",""],
+		itemsDesktop 			: [1200,1],
+		itemsDesktopSmall : [992,1],
+		itemsTablet				: [768,1],
+		itemsMobile 			: [450,1]
 	});
 	var slider = $(".slider").data('owlCarousel');
 	$(".prev").click(function(){

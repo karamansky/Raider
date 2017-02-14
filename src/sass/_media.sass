@@ -48,12 +48,63 @@
 	.desctop-hide
 		display: none
 
+	.menu__body .menu__caption
+		padding-top: 1%
+
+	.menu__body .menu__caption p
+		font-size: 14px
+		width: 74%
+
+	.menu__body .menu__caption span
+		font-size: 45px
+
+	h2
+		font-size: 26px
+		line-height: 30px
+
+	.menu__body .menu__item h2
+		text-align: center
+		text-transform: uppercase
+		padding: 23% 0 0 0
+
+	#solution .solution__body .left .description__imgBox
+		width: 33%
+
+	#solution .solution__body .price-wrap
+		width: 33%
+
 
 
 
 @media screen and (max-width: $tablet) //992
 	.tablet-hide
 		display: none
+
+	.menu__body .menu__caption
+		padding-top: 2%
+
+	.menu__body .menu__caption p
+		font-size: 13px
+		line-height: 12px
+		width: 74%
+
+	.menu__body .menu__caption span
+		font-size: 35px
+
+		h2
+			font-size: 22px
+			line-height: 30px
+
+	.menu__body .menu__item h2
+		text-align: center
+		text-transform: uppercase
+		padding: 17% 0 0 0
+
+	#solution .solution__body .left .description__imgBox
+		width: 33%
+
+	#solution .solution__body .price-wrap
+		width: 33%
 
 
 
@@ -62,6 +113,396 @@
 	.phone-hide
 		display: none
 
+	.phone-show
+		display: block
+
+	#header .header__text
+		width: 100%
+		text-align: center
+		h2
+			font-size: 36px
+			line-height: 50px
+			margin: 0 auto 30px auto
+		p
+			width: 90%
+			margin: 0 auto 45px auto
+
+	#header .header__body a
+		margin-bottom: 90px
+
+	.menu__body .menu__item h2
+		font-size: 18px
+		line-height: 22px
+
+	.menu__body .menu__caption span
+		font-size: 26px
+
+	.menu__body
+		.menu__item
+			width: 26.3%
+			height: 40%
+			&:hover
+				color: $leaf-green-color
+				background: url("../images/menu-border-mobile.png") center 0 no-repeat
+				background-size: 100%
+			h2
+				margin: 30px auto 0 auto
+				width: 70%
+
+
+		.first
+			background: url("../images/menu_1-mobile.png") top no-repeat
+			left: 26%
+			top: 11.7%
+			&:hover
+				background: url("../images/menu-border-mobile.png") center 0 no-repeat, url("../images/menu_1-mobile.png") top no-repeat
+
+		.second
+			background: url("../images/menu_2-mobile.png") top no-repeat
+			right: 4.9%
+			top: 11.7%
+			&:hover
+				background: url("../images/menu-border-mobile.png") center 0 no-repeat, url("../images/menu_2-mobile.png") top no-repeat
+
+		.menu__caption
+			width: 27.2%
+			height: 41%
+			background: url("../images/menu_caption_bg-mobile.png") top no-repeat
+			padding-top: 4.4%
+
+			span
+				font-size: 26px
+
+			p
+				width: 77%
+				margin: 0 auto
+				font-size: 11px
+				line-height: 12px
+
+		.one
+			left: 5.2%
+			top: 31.27%
+
+		.two
+			left: 26%
+			top: 50.8%
+
+		.three
+			right: 25.8%
+			top: 31.27%
+
+		.four
+			right: 4.9%
+			top: 50.8%
+
+	#solution
+		position: relative
+		.solution__body
+			padding: 35px 0
+			overflow: hidden
+			color: $light-text-color
+			h3
+				text-align: center
+				position: relative
+				margin-bottom: 33px
+				font-size: 14px
+				&:after
+					content: " "
+					display: block
+					width: 38px
+					height: 1px
+					background: $green-color
+					margin-left: -18px
+					position: absolute
+					left: 50%
+					bottom: -4px
+
+			.left
+				.description
+					border: 1px solid $green-color
+					background: rgba(21, 111, 107, .1)
+					padding: 25px 15px
+					max-height: 420px
+
+				.description__imgBox
+					width: 50%
+					display: table-cell
+					vertical-align: top
+
+				.description__textBox
+					padding-left: 10%
+					h4
+						font-size: 12px
+						margin-bottom: 5px
+						&:after
+							width: 80px
+							height: 1px
+							left: 0
+							bottom: -2px
+					p
+						font-size: 10px
+					ul
+						min-height: auto
+						padding-top: 0
+						margin-bottom: 9px
+						li
+							font-size: 10px
+							line-height: 12px
+
+				.price-box
+					p
+						font-size: 12px
+						margin-bottom: 12px
+
+					.btn
+						font-size: 11px
+						padding: 3px 7px
+
+				.option
+					margin: 13px 0 0 0
+					h4
+						font-size: 12px
+						margin: 0 0 0 10px
+						padding-bottom: 10px
+					li
+						overflow: hidden
+						margin-bottom: 10px
+						.td	p
+							font-size: 10px
+							line-height: 20px
+						.td:last-child
+							width: 25%
+							padding-left: 11.34%
+
+					label
+						margin: 0 15px 0 10px
+
+			.right
+				width: 49%
+				float: right
+				overflow: hidden
+
+				.mCSB_scrollTools,.mCSB_draggerRail
+					width: 2px
+					margin-right: 0
+
+				.mCSB_inside>.mCSB_container
+					margin-right: 10px!important
+
+
+				.tabs
+					position: inherit
+					overflow: hidden
+
+				.tab__item
+					border-bottom: 1px solid $green-color
+
+				input
+					display: none
+
+				label.tab-btn
+					font-size: 12px
+					line-height: 25px
+					height: 25px
+					position: relative
+					padding: 0
+					margin: 2px 0 0 0
+					border-right: 1px solid #000
+
+				input:checked + label.tab-btn
+					height: 27px
+					padding: 0
+					line-height: 27px
+					margin-top: 0
+					cursor: pointer
+
+				.tab
+					display: none
+					padding: 5px 10px
+					clear: left
+
+				.content
+					max-height: 402px
+					height: auto
+					width: 100%
+					float: left
+					position: relative
+					padding: 7px 0 9px 6px
+					background: rgba(21, 111, 107, .1)
+					border: 1px solid $green-color
+					box-sizing: border-box
+					.scroll
+						max-height: 362px
+
+			.check-wrapper
+				input[type=radio]
+					display: none
+
+				label.chkbox
+					margin: 0 9px 0 0
+
+			.desc-wrap
+				p
+					font-size: 12px
+					line-height: 12px
+					margin-bottom: 5px
+
+				a
+					font-size: 12px
+					line-height: 13px
+
+			.price-wrap
+				width: 29%
+				display: table-cell
+				vertical-align: middle
+				padding-left: 25px
+				font-size: 12px
+				line-height: 12px
+
+			.additional__desc
+				display: none
+				width: 77.47%
+				background: $green-color
+				position: absolute
+				left: calc((100% - 595px) / 2)
+				top: 55px
+				padding: 15px 22px
+				z-index: 2
+				overflow: hidden
+				a
+					display: inline-block
+					float: right
+
+				h4
+					font-size: 14px
+					padding-top: 40px
+					position: relative
+					display: inline-block
+					&:after
+						position: absolute
+						content: " "
+						display: block
+						width: 280px
+						height: 1px
+						left: 0
+						bottom: -11px
+
+				.desc__table
+					margin-top: 28px
+					.tr
+						.td
+							width: 50%
+							font-size: 12px
+							line-height: 13px
+
+	#slider
+		position: relative
+
+		.prev, .next
+			position: absolute
+			padding: 3px 0 0 0
+			width: 30px
+			height: 30px
+			background: #116d6a
+			cursor: pointer
+			z-index: 3
+			img
+				height: 90%
+
+		.prev
+			right: 71px
+			top: 82px
+			left: auto
+
+		.next
+			right: 38px
+			top: 82px
+
+		.slider-wrapper
+			padding: 70px 0 65px 0
+
+		h2
+			margin-bottom: 18px
+			font-size: 24px
+			line-height: 30px
+
+		.table
+			.td
+				padding-bottom: 13px
+
+		.number
+			width: 30px
+			height: 30px
+			line-height: 30px
+			font-size: 16px
+			text-align: center
+			margin-right: 30px
+			margin-top: 8px
+
+		p
+			font-size: 18px
+			line-height: 22px
+
+		.tr .td:last-child span
+			font-size: 16px
+			line-height: 22px
+
+
+	#footer
+		.footer
+			padding: 35px 0
+
+			.column:first-child
+				width: 28%
+				margin-right: 2.336%
+				p
+					font-size: 12px
+
+			.column:nth-child(2)
+				width: calc(34.28% - 30px)
+				margin-right: 2.336%
+				padding-right: 30px
+				p
+					font-size: 12px
+					line-height: 16px
+
+			.column:last-child
+				width: 31.75%
+
+		h4
+			text-transform: uppercase
+			margin-bottom: 15px
+
+		li
+			margin-bottom: 12px
+
+		.ff-wrapper
+			input[type=text],
+			input[type=email],
+			textarea
+				width: 100%
+				font-size: 12px
+				padding-left: 13px
+			textarea
+				height: 99px
+				max-height: 99px
+
+		.captcha-wrapper
+			input[type=text]
+				float: none
+				width: 100%
+
+			input:first-child
+				margin-right: 0
+
+		input.btn
+			font-size: 14px
+			padding-top: 5px
+			padding-bottom: 7px
+			width: calc(100% - 9px)
+			margin-left: 0
+			border: none
+			font-family: $regular
 
 
 

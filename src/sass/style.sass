@@ -2,12 +2,10 @@
 @import "vars"
 @import "base"
 
+.phone-show
+	display: none
 
 #menu
-	//background: $green-color url("../images/menu-bg.jpg") center 0 no-repeat
-	//background-size: 100%
-	//padding-bottom: 65px
-	//height: 955px
 	margin-bottom: -4px
 	position: relative
 
@@ -93,6 +91,8 @@
 
 #solution
 	background: #000 url("../images/solution-bg.jpg") center no-repeat
+	background-size: cover
+
 	.solution__body
 		padding: 35px 0
 		overflow: hidden
@@ -118,7 +118,7 @@
 			overflow: hidden
 
 			.description
-				border: 2px solid $green-color
+				border: 1px solid $green-color
 				background: rgba(21, 111, 107, .1)
 				padding: 25px 15px
 				max-height: 420px
@@ -241,7 +241,7 @@
 				-webkit-transition: all 150ms ease 0s
 				transition: all 150ms ease 0s
 				margin: 4px 0 0 0
-				border-right: 1px solid #000
+				border-sright: 1px solid #000
 			#tab3 + label
 				border-right: 0
 
@@ -265,7 +265,7 @@
 				position: relative
 				padding: 15px 0 15px 20px
 				background: rgba(21, 111, 107, .1)
-				border: 2px solid $green-color
+				border: 1px solid $green-color
 				box-sizing: border-box
 				.scroll
 					max-height: 660px
@@ -326,7 +326,7 @@
 					text-decoration: underline
 
 		.price-wrap
-			width: 110px
+			width: 22%
 			display: table-cell
 			vertical-align: middle
 			padding-left: 25px
@@ -342,6 +342,7 @@
 			top: 0
 			bottom: 0
 			padding: 15px 22px
+			z-index: 2
 			overflow: hidden
 			a
 				display: inline-block
@@ -379,6 +380,9 @@
 						padding-bottom: 5px
 						&:last-child
 							color: #082525
+
+		.additional_inner
+			max-height: 650px
 
 #slider
 	.slider-wrapper
