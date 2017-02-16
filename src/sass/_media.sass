@@ -44,7 +44,7 @@
 
 
 
-@media screen and (max-width: $desktop) //1200
+@media screen and (max-width: 1200px) //1200
 	.desctop-hide
 		display: none
 
@@ -74,22 +74,10 @@
 		width: 33%
 
 
-
-
-@media screen and (max-width: $tablet) //992
-	.tablet-hide
-		display: none
+@media screen and (max-width: 1024px)
 
 	.menu__body .menu__caption
 		padding-top: 2%
-
-	.menu__body .menu__caption p
-		font-size: 13px
-		line-height: 12px
-		width: 74%
-
-	.menu__body .menu__caption span
-		font-size: 35px
 
 		h2
 			font-size: 22px
@@ -100,27 +88,31 @@
 		text-transform: uppercase
 		padding: 17% 0 0 0
 
+
+	.menu__body .menu__caption span
+		font-size: 35px
+
+	.menu__body .menu__caption p
+		font-size: 13px
+		line-height: 12px
+		width: 74%
+
+@media screen and (max-width: 992px) //992
+	.tablet-hide
+		display: none
+
 	#solution .solution__body .left .description__imgBox
 		width: 33%
 
 	#solution .solution__body .price-wrap
 		width: 33%
 
-
-
-
-@media screen and (max-width: $phone) //768
-	.phone-hide
-		display: none
-
-	.phone-show
-		display: block
-
 	#header .header__text
 		width: 100%
 		text-align: center
 		h2
 			font-size: 36px
+			text-align: center
 			line-height: 50px
 			margin: 0 auto 30px auto
 		p
@@ -129,71 +121,6 @@
 
 	#header .header__body a
 		margin-bottom: 90px
-
-	.menu__body .menu__item h2
-		font-size: 18px
-		line-height: 22px
-
-	.menu__body .menu__caption span
-		font-size: 26px
-
-	.menu__body
-		.menu__item
-			width: 26.3%
-			height: 40%
-			&:hover
-				color: $leaf-green-color
-				background: url("../images/menu-border-mobile.png") center 0 no-repeat
-				background-size: 100%
-			h2
-				margin: 30px auto 0 auto
-				width: 70%
-
-
-		.first
-			background: url("../images/menu_1-mobile.png") top no-repeat
-			left: 26%
-			top: 11.7%
-			&:hover
-				background: url("../images/menu-border-mobile.png") center 0 no-repeat, url("../images/menu_1-mobile.png") top no-repeat
-
-		.second
-			background: url("../images/menu_2-mobile.png") top no-repeat
-			right: 4.9%
-			top: 11.7%
-			&:hover
-				background: url("../images/menu-border-mobile.png") center 0 no-repeat, url("../images/menu_2-mobile.png") top no-repeat
-
-		.menu__caption
-			width: 27.2%
-			height: 41%
-			background: url("../images/menu_caption_bg-mobile.png") top no-repeat
-			padding-top: 4.4%
-
-			span
-				font-size: 26px
-
-			p
-				width: 77%
-				margin: 0 auto
-				font-size: 11px
-				line-height: 12px
-
-		.one
-			left: 5.2%
-			top: 31.27%
-
-		.two
-			left: 26%
-			top: 50.8%
-
-		.three
-			right: 25.8%
-			top: 31.27%
-
-		.four
-			right: 4.9%
-			top: 50.8%
 
 	#solution
 		position: relative
@@ -505,6 +432,91 @@
 			font-family: $regular
 
 
+@media (min-width: 769px) and (max-width: 850px)
+	.menu__body .menu__item h2
+		font-size: 16px
+		line-height: 20px
+		width: 70%
+
+	.menu__body .menu__caption span
+		font-size: 26px
+
+	.menu__body .menu__caption p
+		font-size: 12px
+
+
+@media (min-width: 750px) and (max-width: 768px)
+	.phone-hide
+		display: none
+
+	.phone-show
+		display: block
+
+	.menu__body .menu__item h2
+		font-size: 18px
+		line-height: 22px
+
+	.menu__body .menu__caption span
+		font-size: 26px
+
+	.menu__body
+		.menu__item
+			width: 27.3%
+			height: 40%
+			&:hover
+				color: $leaf-green-color
+				background: url("../images/menu-border-tablet.png") center 0 no-repeat
+				background-size: 100%
+			h2
+				margin: 30px auto 0 auto
+				width: 70%
+
+
+		.first
+			background: url("../images/menu_1-tablet.png") center 0 no-repeat
+			left: 26%
+			top: 11.7%
+			&:hover
+				background: url("../images/menu-border-tablet.png") center 0 no-repeat, url("../images/menu_1-tablet.png") top no-repeat
+
+		.second
+			background: url("../images/menu_2-tablet.png") top no-repeat
+			right: 4.9%
+			top: 11.7%
+			&:hover
+				background: url("../images/menu-border-tablet.png") center 0 no-repeat, url("../images/menu_2-tablet.png") top no-repeat
+
+		.menu__caption
+			width: 27.2%
+			height: 41%
+			background: url("../images/menu_caption_bg-tablet.png") top no-repeat
+			padding-top: 4.4%
+
+			span
+				font-size: 26px
+
+			p
+				width: 77%
+				margin: 0 auto
+				font-size: 11px
+				line-height: 12px
+
+		.one
+			left: 5.2%
+			top: 31.27%
+
+		.two
+			left: 26%
+			top: 50.8%
+
+		.three
+			right: 25.8%
+			top: 31.27%
+
+		.four
+			right: 4.9%
+			top: 50.8%
+
 
 @media screen and (max-width: 600px)
 	.small-phone-hide
@@ -512,7 +524,7 @@
 
 
 
-@media screen and (max-width: $extra-small) //iPhone6 450px
+@media screen and (max-width: 450px) //iPhone6 450px
 	.small-phone-hide
 		display: none
 	

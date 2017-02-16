@@ -240,14 +240,14 @@
 				box-sizing: border-box
 				-webkit-transition: all 150ms ease 0s
 				transition: all 150ms ease 0s
-				margin: 4px 0 0 0
-				border-sright: 1px solid #000
+				margin: 2px 0 0 0
+				border-right: 1px solid #000
 			#tab3 + label
 				border-right: 0
 
 			input:checked + label.tab-btn
 				background: #138f8b
-				height: 59px
+				height: 57px
 				margin-top: 0
 				line-height: 33px
 				cursor: pointer
@@ -256,6 +256,7 @@
 				display: none
 				padding: 5px 10px
 				clear: left
+				transition: all .3s
 
 			.content
 				max-height: 700px
@@ -267,8 +268,10 @@
 				background: rgba(21, 111, 107, .1)
 				border: 1px solid $green-color
 				box-sizing: border-box
+				transition: all .5s
 				.scroll
 					max-height: 660px
+
 
 			input:nth-of-type(1):checked ~ .content .tab:nth-of-type(1),
 			input:nth-of-type(2):checked ~ .content .tab:nth-of-type(2),
@@ -326,7 +329,8 @@
 					text-decoration: underline
 
 		.price-wrap
-			width: 22%
+			width: 23%
+			text-align: right
 			display: table-cell
 			vertical-align: middle
 			padding-left: 25px
@@ -612,5 +616,381 @@
 		background: #0b4543
 		width: 214px
 		margin-left: calc(50% - 107px)
+
+/**************************************************************************/
+/**** constructor ****/
+#constructor
+	background: url("../images/constructor-bg.jpg") top center no-repeat
+	background-size: cover
+
+	.constructor
+		max-width: 1455px
+		margin: 0 auto
+		padding: 20px 0 195px 0
+
+		.constructor__save
+			width: 80px
+			height: 138px
+			text-align: center
+			background: rgba(21, 111, 107, .5)
+			position: fixed
+			right: 0
+			top: 255px
+			z-index: 10
+			a
+				display: block
+				padding-top: 20px
+				& + span
+					display: none
+					width: 100px
+					text-align: center
+					padding: 3px 0 5px 0
+					position: absolute
+					left: -122px
+					margin-top: -35px
+					color: $light-text-color
+					background: rgba(21, 111, 107, .5)
+					z-index: 10
+					&:after
+						content: " "
+						position: absolute
+						right: -13px
+						border: 7px solid transparent
+						width: 0
+						height: 0
+						margin-top: 4px
+						border-left-color: rgba(21, 111, 107, .5)
+						float: right
+
+				img
+					opacity: 0.5
+				&:hover img
+					opacity: 1
+
+		.logo
+			display: block
+			width: 100%
+
+		h3
+			padding-top: 95px
+			color: $yellow-color
+			text-transform: uppercase
+			text-align: center
+			position: relative
+			font-size: 30px
+			margin-bottom: 120px
+			&:after
+				content: " "
+				display: block
+				width: 80px
+				height: 2px
+				background: $yellow-color
+				margin-left: -40px
+				position: absolute
+				left: 50%
+				bottom: -15px
+
+	.constructor-bg-layer
+		background: rgba(13, 69, 67, 0.34)
+
+	.tabs
+		position: relative
+		display: inline-block
+		width: 100%
+
+		.tab__item
+			float: right
+			border-bottom: 1px solid $green-color
+
+		input
+			display: none
+
+		label.tab-btn
+			float: right
+			display: block
+			cursor: pointer
+			background: $green-color
+			color: $light-text-color
+			font-size: 20px
+			line-height: 25px
+			font-family: $regular
+			height: 55px
+			position: relative
+			top: 0
+			padding: 15px
+			width: 300px
+			letter-spacing: 1px
+			text-align: center
+			box-sizing: border-box
+			-webkit-transition: all 150ms ease 0s
+			transition: all 150ms ease 0s
+			margin: 2px 0 0 0
+			border-right: 1px solid #000
+		#tab3 + label
+			border-right: 0
+
+		input:checked + label.tab-btn
+			background: #138f8b
+			margin-top: 2px
+			cursor: pointer
+
+		.tab
+			display: none
+
+		.content
+			width: 100%
+			float: left
+			position: relative
+			border-top: 1px solid $green-color
+			box-sizing: border-box
+			transition: all .5s
+			.scroll
+				max-height: 660px
+
+
+		input:nth-of-type(1):checked ~ .content .tab:nth-of-type(1),
+		input:nth-of-type(2):checked ~ .content .tab:nth-of-type(2),
+		input:nth-of-type(3):checked ~ .content .tab:nth-of-type(3)
+			display: block
+
+		.mCSB_scrollTools .mCSB_draggerRail
+			width: 4px
+			background: $green-color
+
+		.tab__item
+			padding-top: 15px
+			&:first-child
+				padding-top: 0
+
+		.tab__body
+			display: inline-block
+			width: 100%
+
+		.left
+			width: 40%
+			min-height: 100px
+			float: left
+
+		.left__img
+			background: rgba(21, 111, 107, .5)
+			border: 1px solid $green-color
+			text-align: center
+			padding: 30px
+			margin-bottom: 30px
+			max-height: 331px
+
+			img
+				height: 100%
+				width: auto
+
+		.left__description
+			padding: 19px 25px
+			border: 1px solid $green-color
+			background: rgba(204, 230, 196, .5)
+			color: #082525
+
+			h4
+				font-size: 18px
+				line-height: 26px
+				position: relative
+				display: inline-block
+				margin-bottom: 20px
+				&:after
+					position: absolute
+					content: " "
+					display: block
+					width: 280px
+					height: 1px
+					left: 0
+					bottom: -8px
+					background: #43655a
+					background: -moz-linear-gradient(left,  #43655a 0%, #668b7b 100%)
+					background: -webkit-linear-gradient(left,  #43655a 0%,#668b7b 100%)
+					background: linear-gradient(to right,  #43655a 0%,#668b7b 100%)
+					filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#43655a', endColorstr='#668b7b',GradientType=1 )
+
+			.description__body
+				.tr
+					display: table-row
+					.td
+						display: table-cell
+						padding-bottom: 10px
+						&:last-child
+							padding-left: 65px
+
+				.tr:last-child .td
+					font-size: 18px
+					font-family: $bold
+					color: #082525
+					padding-bottom: 33px
+
+		.right
+			width: 56.75%
+			min-height: 100px
+			//overflow: hidden
+			float: right
+
+
+		.right__select-box
+			background: rgba(21, 111, 107, .5)
+			border: 1px solid $green-color
+			padding: 30px 25px
+			margin-bottom: 30px
+
+		.icon
+			display: block
+			position: relative
+			width: 1.5em
+			height: 1.5em
+			margin: 0 auto
+
+			&:before,&:after
+				content: ""
+				position: absolute
+
+		.dropp
+			width: 100%
+			border: 1px solid $light-text-color
+			margin-bottom: 30px
+			position: relative
+
+		.dropp-header
+			background: transparent
+			color: $light-text-color
+			align-items: stretch
+			display: flex
+			flex-direction: row
+			justify-content: flex-start
+			position: relative
+			//border-bottom: 1px solid $light-text-color
+
+		.dropp-header__title
+			display: block
+			padding: 9px 50px 9px 20px
+			font-size: 18px
+			line-height: 40px
+			flex: 8
+
+		.dropp-header__title.added
+			line-height: 22px
+			padding: 8px 50px 8px 20px
+
+
+		.dropp-header__btn
+			display: block
+			background: transparent
+			color: $light-text-color
+			padding: 15px 0 13px 0
+			flex: 1
+			width: 100%
+			transition: all .3s ease-in-out
+			position: absolute
+
+			.icon
+				padding-right: 16px
+				float: right
+				transition: all .3s ease-in-out
+				display: block
+				background: url("../images/select-arrow-down.png") center no-repeat
+
+			&.js-open
+				background: transparent
+				.icon
+					transform: rotate(180deg)
+					&:before,&:after
+						background: $light-text-color
+
+			&:focus
+				outline: none
+
+		.dropp-body
+			overflow: hidden
+			width: 100%
+			max-height: 0
+			background: lighten($green-color, 2)
+			color: $light-text-color
+			transition: all .3s ease-in-out
+			position: absolute
+			top: 58px
+			z-index: 1
+			left: -1px
+			border: 1px solid $light-text-color
+			display: none
+			.scroll-select
+				max-height: 470px
+
+			&.js-open
+				max-height: 470px
+				display: block
+
+			.mCSB_scrollTools .mCSB_draggerRail
+				width: 35px!important
+				background: #0f5552!important
+				border-radius: 0
+				margin-left: -17px
+
+			.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar
+				width: 35px!important
+				border-radius: 0
+				background: #138f8b!important
+				margin-left: -17px
+
+			label
+				display: block
+				font-size: 18px
+				line-height: 22px
+				color: $light-text-color
+				text-decoration: none
+				padding: 7px 20px 9px 20px
+				font-weight: 400
+				cursor: pointer
+				background: #156f6b
+
+				&:nth-child(2n)
+					background: #277b77
+
+				&:first-child
+					box-shadow: none
+
+				&:hover
+					background: lighten($green-color, 5)
+
+				&.checked
+					background: rgba(204, 230, 196, 0.5)
+
+				> input
+					display: none
+
+		.item__price-wrap
+			float: right
+			text-align: right
+
+		.parameters
+			color: #082525
+			
+		.btn-box__price
+			background: $leaf-green-color
+			padding: 15px 40px 15px 25px
+			width: calc(50% - 80px)
+			float: left
+			color: $light-text-color
+			font-family: $bold
+			font-size: 24px
+			span:nth-child(2)
+				float: right
+
+		.right__btn-box a
+			float: right
+			padding: 16px 0
+			text-align: center
+			width: calc(50% - 15px)
+
+
+
+
+
+
+/**** end constructor ****/
+
 
 @import "media"

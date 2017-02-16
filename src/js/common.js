@@ -1,8 +1,11 @@
 "use strict";
 $(function(){
 
-	$(window).on("load",function(){
+	$(document).ready(function(){
 		$(".scroll").mCustomScrollbar({
+			axis: "y"
+		});
+		$(".scroll-select").mCustomScrollbar({
 			axis: "y"
 		});
 	});
@@ -49,6 +52,80 @@ $(function(){
 		$(this).parent().hide();
 	});
 /*show / hide description*/
+
+
+/*make select of div*/
+	$(document).ready(function() {
+
+		// Default dropdown action to show/hide dropdown content
+		$('.js-dropp-action').click(function(e) {
+			e.preventDefault();
+			// $(this).toggleClass('js-open');
+
+			if($(this).hasClass('js-open')){
+				$(this).removeClass('js-open');
+			}else{
+				$('.js-dropp-action').removeClass('js-open');
+				$('.dropp-body').removeClass('js-open');
+				$(this).addClass('js-open');
+			}
+
+			$(this).parent().next('.dropp-body').toggleClass('js-open');
+
+		});
+
+		// Using as fake input select dropdown
+		$('label').click(function() {
+
+			$('.dropp-body').removeClass('js-open');
+			$('.dropp-body label').removeClass('js-open');
+			$('.dropp-header__btn').removeClass('js-open');
+
+			$(this).siblings().removeClass('checked');
+			$(this).addClass('checked');
+
+			$(this).children("input").change(function() {
+				// if($( this ).prop( "checked" )) { var value = $( this ).val(); }
+				if($( this ).prop( "checked" )) {
+					var value = $( this ).parent().find(".label").html();
+				}
+				$(this).parents(".dropp").find(".dropp-header").find(".js-value").html(value).addClass("added");
+			});
+		});
+	});
+
+/*end make select of div*/
+
+
+/* onhover description save/reset */
+	$(".constructor__save a").hover(function(){
+		//действия при ховере
+
+		$(this).next().html($(this).data("title")).show();
+
+	}, function(){
+		// при потере ховера
+		$(this).next().hide();
+	});
+/* end onhover description save/reset */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 });

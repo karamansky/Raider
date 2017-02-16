@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "PT-Sans-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/PT-Sans-Regular/PT-Sans-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/PT-Sans-Regular/PT-Sans-Regular.woff") format("woff"), url("../fonts/PT-Sans-Regular/PT-Sans-Regular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "PT-Sans-Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/PT-Sans-Bold/PT-Sans-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/PT-Sans-Bold/PT-Sans-Bold.woff") format("woff"), url("../fonts/PT-Sans-Bold/PT-Sans-Bold.ttf") format("truetype"); }
