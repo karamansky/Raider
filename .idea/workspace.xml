@@ -2,941 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a687709-37ec-4cf6-895f-63f3650265a0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/grabbing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/mCSB_buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/PT-Sans-Bold/PT-Sans-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/PT-Sans-Bold/PT-Sans-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/PT-Sans-Bold/PT-Sans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/PT-Sans-Bold/PT-Sans-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/PT-Sans-Regular/PT-Sans-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/PT-Sans-Regular/PT-Sans-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/PT-Sans-Regular/PT-Sans-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/PT-Sans-Regular/PT-Sans-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/case1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/close_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/footer-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/header-bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/menu-bg-tablet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/menu-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/menu-border-tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/menu-border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/menu_1-tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/menu_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/menu_2-tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/menu_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/menu_caption_bg-tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/menu_caption_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/next-arrow-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/ok-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/prev-arrow-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/slider-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/solution-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/images/vk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/amd_proc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/constructor-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/css/grabbing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/css/mCSB_buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/PT-Sans-Bold/PT-Sans-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/PT-Sans-Bold/PT-Sans-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/PT-Sans-Bold/PT-Sans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/PT-Sans-Bold/PT-Sans-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/PT-Sans-Regular/PT-Sans-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/PT-Sans-Regular/PT-Sans-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/PT-Sans-Regular/PT-Sans-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/PT-Sans-Regular/PT-Sans-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/case1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/close_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/footer-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/header-bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/menu-bg-tablet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/menu-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/menu-border-tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/menu-border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/menu_1-tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/menu_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/menu_2-tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/menu_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/menu_caption_bg-tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/menu_caption_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/next-arrow-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/ok-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/prev-arrow-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/slider-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/solution-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/images/vk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/build/jquery-custom-scrollbar-0.5.0.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/build/jquery-custom-scrollbar-0.5.1.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/build/jquery-custom-scrollbar-0.5.2.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/build/jquery-custom-scrollbar-0.5.3.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/build/jquery-custom-scrollbar-0.5.4.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/build/jquery-custom-scrollbar-0.5.5.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/demos/images/lena.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/malihu-custom-scrollbar-plugin/mCSB_buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/media/Modernizr 2 Logo vertical big.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/media/Modernizr 2 Logo vertical medium.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/media/Modernizr 2 Logo vertical small.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/media/Modernizr 2 Logo.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/media/Modernizr 2 Logo.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/media/Modernizr 2 Logo.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/media/Modernizr 2 Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/media/Modernizr-2-Logo-vertical-big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/media/Modernizr-2-Logo-vertical-medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/media/Modernizr-2-Logo-vertical-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/ico/apple-touch-icon-114-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/ico/apple-touch-icon-144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/ico/apple-touch-icon-57-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/ico/apple-touch-icon-72-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/ico/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/AjaxLoader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/demo-slides/controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/demo-slides/css3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/demo-slides/feather.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/demo-slides/grab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/demo-slides/modern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/demo-slides/multi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/demo-slides/responsive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/demo-slides/tons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/demo-slides/touch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/demo-slides/zombie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/glyphicons-halflings-green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/img/owl-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/fullimage1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/fullimage2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/fullimage3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/fullimage4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/fullimage5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/fullimage6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/fullimage7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/owl1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/owl2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/owl3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/owl4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/owl5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/owl6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/owl7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/assets/owl8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/owl-carousel/AjaxLoader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/owl-carousel/grabbing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/example/images/logo_big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/example/images/logo_big@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/example/images/logo_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/example/images/logo_small@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/example/images/thumbs-up.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/example/images/vs_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/example/images/vs_icon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/sweetalert.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/header.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/jquery.mCustomScrollbar.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/libs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/libs.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/magnific-popup.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/owl.carousel.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/owl.theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/owl.transitions.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/PT-Sans-Bold/PT-Sans-Bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/PT-Sans-Regular/PT-Sans-Regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/js/jquery.mCustomScrollbar.concat.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/js/libs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/constructor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/css/header.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/css/jquery.mCustomScrollbar.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/css/libs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/css/libs.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/css/magnific-popup.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/css/owl.carousel.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/css/owl.theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/css/owl.transitions.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/PT-Sans-Bold/PT-Sans-Bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/PT-Sans-Regular/PT-Sans-Regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/js/jquery.mCustomScrollbar.concat.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/js/libs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/css/font-awesome.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/README.textile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/custom-scrollbar.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/demos/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/demos/events.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/demos/expandable_list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/demos/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/demos/nested.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/demos/resizing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/demos/scrolling-programmatically.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/demos/skins.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/jquery.custom-scrollbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-custom-scrollbar/jquery.custom-scrollbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-mousewheel/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-mousewheel/ChangeLog.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-mousewheel/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-mousewheel/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-mousewheel/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-mousewheel/jquery.mousewheel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery-mousewheel/jquery.mousewheel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/demo/datepicker.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/dist/jquery.maskedinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/dist/jquery.maskedinput.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/jquery.maskedinput.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery.maskedinput/src/jquery.maskedinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/AUTHORS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/dist/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/dist/jquery.slim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/dist/jquery.slim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/dist/jquery.slim.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/external/sizzle/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/external/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/external/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/external/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/ajax/var/location.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/core/DOMEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/core/ready-no-deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/core/readyException.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/core/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css/adjustCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css/showHide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css/var/isHiddenWithinTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/css/var/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/data/Data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/data/var/acceptData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/data/var/dataPriv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/data/var/dataUser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/deferred/exceptionHook.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/event/focusin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/event/trigger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/manipulation/buildFragment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/manipulation/getAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/manipulation/setGlobalEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/manipulation/var/rscriptType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/manipulation/var/rtagName.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/manipulation/wrapMap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/traversing/var/dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/traversing/var/siblings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/ObjectFunctionString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/document.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/documentElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/fnToString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/getProto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/rcssNum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/rnotwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/dist/jquery.magnific-popup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/dist/jquery.magnific-popup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/dist/magnific-popup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/magnific-popup.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/src/css/_settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/src/css/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/src/js/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/src/js/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/src/js/gallery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/src/js/iframe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/src/js/image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/src/js/inline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/src/js/retina.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/magnific-popup/src/js/zoom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/malihu-custom-scrollbar-plugin/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/malihu-custom-scrollbar-plugin/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/maskedInput/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/maskedInput/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/maskedInput/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/maskedInput/masked-input.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/build/jquery.mixitup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/docs/api-methods.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/docs/configuration-object.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/docs/events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/docs/state-object.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/docs/version-1-migration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/mixitup/src/jquery.mixitup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/.coveralls.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/.jshintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/appveyor.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/bin/modernizr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/a/download.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/ambientlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/applicationcache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/audio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/audio/loop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/audio/preload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/audio/webaudio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/battery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/battery/lowbattery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/blob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/canvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/canvas/blending.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/canvas/todataurl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/canvas/winding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/canvastext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/contenteditable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/contextmenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/cookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/cors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/crypto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/crypto/getrandomvalues.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/animations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/appearance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/backdropfilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/backgroundblendmode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/backgroundcliptext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/backgroundposition-shorthand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/backgroundposition-xy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/backgroundrepeat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/backgroundsize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/backgroundsizecover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/borderimage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/borderradius.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/boxshadow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/boxsizing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/calc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/checked.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/chunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/columns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/cubicbezierrange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/displayrunin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/displaytable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/ellipsis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/escape.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/exunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/flexbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/flexboxlegacy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/flexboxtweener.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/flexwrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/fontface.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/generatedcontent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/gradients.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/hairline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/hsla.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/hyphens.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/invalid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/lastchild.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/mask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/mediaqueries.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/multiplebgs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/nthchild.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/objectfit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/opacity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/overflow-scrolling.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/pointerevents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/positionsticky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/pseudoanimations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/pseudotransitions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/reflections.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/regions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/remunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/rgba.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/scrollbars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/scrollsnappoints.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/shapes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/siblinggeneral.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/subpixelfont.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/supports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/target.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/textalignlast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/textshadow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/transforms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/transforms3d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/transformstylepreserve3d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/transitions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/userselect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/valid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/vhunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/vmaxunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/vminunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/vwunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/will-change.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/css/wrapflow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/custom-protocol-handler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/customevent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/dart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/dataview-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/dom/classlist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/dom/createElement-attrs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/dom/dataset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/dom/documentfragment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/dom/hidden.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/dom/microdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/dom/mutationObserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/elem/bdi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/elem/datalist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/elem/details.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/elem/output.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/elem/picture.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/elem/progress-meter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/elem/ruby.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/elem/template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/elem/time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/elem/track.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/elem/unknown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/emoji.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es5/array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es5/date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es5/function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es5/object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es5/specification.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es5/strictmode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es5/string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es5/syntax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es5/undefined.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es6/array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es6/collections.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es6/contains.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es6/generators.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es6/math.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es6/number.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es6/object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es6/promises.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/es6/string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/event/deviceorientation-motion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/event/oninput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/eventlistener.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/exif-orientation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/file/api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/file/filesystem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/flash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/forcetouch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/forms/capture.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/forms/fileinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/forms/fileinputdirectory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/forms/formattribute.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/forms/inputnumber-l10n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/forms/placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/forms/requestautocomplete.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/forms/validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/fullscreen-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/gamepad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/geolocation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/hashchange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/hiddenscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/history.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/htmlimports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/ie8compat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/iframe/sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/iframe/seamless.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/iframe/srcdoc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/img/apng.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/img/crossorigin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/img/jpeg2000.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/img/jpegxr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/img/sizes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/img/srcset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/img/webp-alpha.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/img/webp-animation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/img/webp-lossless.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/img/webp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/indexeddb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/indexeddbblob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/input.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/input/formaction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/input/formenctype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/input/formmethod.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/input/formtarget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/inputsearchevent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/inputtypes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/intl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/ligatures.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/lists-reversed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/mathml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/network/beacon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/network/connection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/network/eventsource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/network/fetch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/network/xhr-responsetype-arraybuffer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/network/xhr-responsetype-blob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/network/xhr-responsetype-document.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/network/xhr-responsetype-json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/network/xhr-responsetype-text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/network/xhr-responsetype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/network/xhr2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/notification.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/pagevisibility-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/performance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/pointerevents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/pointerlock-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/postmessage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/proximity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/queryselector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/quota-management-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/requestanimationframe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/script/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/script/defer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/serviceworker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/speech/speech-recognition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/speech/speech-synthesis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/storage/localstorage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/storage/sessionstorage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/storage/websqldatabase.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/style/scoped.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/svg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/svg/asimg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/svg/clippaths.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/svg/filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/svg/foreignobject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/svg/inline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/svg/smil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/templatestrings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/textarea/maxlength.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/touchevents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/typed-arrays.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/unicode-range.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/unicode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/url/bloburls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/url/data-uri.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/url/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/userdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/vibration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/video/autoplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/video/loop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/video/preload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/vml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/web-intents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/webanimations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/webgl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/webgl/extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/webrtc/datachannel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/webrtc/getusermedia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/webrtc/peerconnection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/websockets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/websockets/binary.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/window/atob-btoa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/window/framed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/window/matchmedia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/workers/blobworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/workers/dataworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/workers/sharedworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/workers/transferables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/workers/webworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/feature-detects/xdomainrequest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/lib/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/lib/build-query.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/lib/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/lib/cli.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/lib/config-all.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/lib/generate-banner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/lib/metadata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/lib/options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/lib/polyfills.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/media/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/media/Modernizr 2 Logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/Modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/ModernizrProto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/addTest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/atRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/contains.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/createElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/cssToDOM.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/cssomPrefixes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/docElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/domPrefixes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/domToCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/fnBind.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/generate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/getBody.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/hasEvent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/hasOwnProp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/html5printshiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/injectElementWithStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/inputElem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/isSVG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/mStyle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/modElem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/mq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/nativeTestProps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/omPrefixes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/prefixed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/prefixedCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/prefixedCSSValue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/prefixes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/roundedEquals.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/setClasses.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/testAllProps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/testDOMProps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/testProp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/testProps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/testPropsAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/testRunner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/testStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/testXhrType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/src/toStringFn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/iframe.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/integration.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/integration.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/integration/bools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/integration/caniuse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/integration/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/integration/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/integration/iframe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/integration/prefixed-atRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/integration/prefixed-autobind.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/integration/prefixed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/integration/prefixedCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/integration/svg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/sauce-browsers.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/setup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/Modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/ModernizrProto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/addTest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/atRule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/contains.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/createElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/cssToDOM.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/cssomPrefixes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/docElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/domPrefixes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/domToCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/fnBind.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/generate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/getBody.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/hasEvent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/hasOwnProp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/html5printshiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/injectElementWithStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/inputElem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/mStyle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/modElem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/mq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/nativeTestProps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/omPrefixes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/prefixed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/prefixedCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/prefixedCSSValue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/prefixes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/roundedEquals.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/setClasses.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/testAllProps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/testDOMProps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/testProp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/testProps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/testPropsAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/testRunner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/testStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/testXhrType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/src/toStringFn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/svgUnit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/browser/unit.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/cleanup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/img/integration.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/img/unit.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/js/lib/sinon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/js/lib/uaparser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/mocks/lib/build-query.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/mocks/lib/metadata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/node/lib/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/node/lib/cli.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/node/lib/metadata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/node/lib/options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/universal/lib/build-query.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/modernizr/test/universal/lib/generate-banner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/css/bootstrapTheme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/css/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/js/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/js/bootstrap-collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/js/bootstrap-tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/js/bootstrap-transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/js/google-code-prettify/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/js/google-code-prettify/prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/js/google-code-prettify/run_prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/assets/js/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/changelog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/autoHeight.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/click.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/custom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/customJson.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/full.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/images.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/itemsCustom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/json.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/json/customData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/json/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/lazyLoad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/manipulations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/navOnTop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/navOnTop2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/one.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/owlStatus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/progressBar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/randomOrder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/scaleup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/sync.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/demos/transitions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/owl-carousel/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/owl-carousel/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/owl-carousel/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/owl-carousel/owl.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/owl-carousel/owl-carousel/owl.transitions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/gulpfile-wrap-template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/ie9.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/loader-animation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/modules/default-params.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/modules/handle-click.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/modules/handle-dom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/modules/handle-key.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/modules/handle-swal-dom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/modules/injected-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/modules/set-params.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/modules/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/sweetalert.es6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dev/sweetalert.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dist/sweetalert-dev.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dist/sweetalert.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/dist/sweetalert.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/example/example.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/example/example.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/example/images/te-logo-small.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/lib/modules/default-params.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/lib/modules/handle-click.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/lib/modules/handle-dom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/lib/modules/handle-key.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/lib/modules/handle-swal-dom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/lib/modules/injected-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/lib/modules/set-params.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/lib/modules/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/lib/sweetalert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/test/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/themes/facebook/facebook.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/themes/facebook/facebook.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/themes/google/google.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/themes/google/google.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/themes/twitter/twitter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/libs/sweetalert/themes/twitter/twitter.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/sass/_base.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/sass/_media.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/sass/_vars.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/sass/fonts.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/sass/header.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/sass/libs.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mobile/sass/style.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constructor.html" afterPath="$PROJECT_DIR$/src/constructor.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/style.css" afterPath="$PROJECT_DIR$/src/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/common.js" afterPath="$PROJECT_DIR$/src/js/common.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/_media.sass" afterPath="$PROJECT_DIR$/src/sass/_media.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/_vars.sass" afterPath="$PROJECT_DIR$/src/sass/_vars.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/header.sass" afterPath="$PROJECT_DIR$/src/sass/header.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/style.sass" afterPath="$PROJECT_DIR$/src/sass/style.sass" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/menu-bg-mobile.jpg" afterPath="$PROJECT_DIR$/src/images/menu-bg-tablet.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/menu-border-mobile.png" afterPath="$PROJECT_DIR$/src/images/menu-border-tablet.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/menu_1-mobile.png" afterPath="$PROJECT_DIR$/src/images/menu_1-tablet.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/menu_2-mobile.png" afterPath="$PROJECT_DIR$/src/images/menu_2-tablet.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/images/menu_caption_bg-mobile.png" afterPath="$PROJECT_DIR$/src/images/menu_caption_bg-tablet.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/first.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -958,14 +29,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.53759396">
+    <splitter split-orientation="horizontal" split-proportion="0.65629524">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
           <file leaf-file-name="constructor.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/constructor.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="464">
-                  <caret line="54" column="14" lean-forward="true" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+                <state relative-caret-position="967">
+                  <caret line="684" column="26" lean-forward="true" selection-start-line="684" selection-start-column="26" selection-end-line="684" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
@@ -974,8 +45,8 @@
           <file leaf-file-name="first.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/first.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="280">
-                  <caret line="804" column="0" lean-forward="true" selection-start-line="804" selection-start-column="0" selection-end-line="816" selection-end-column="6" />
+                <state relative-caret-position="17688">
+                  <caret line="804" column="0" lean-forward="false" selection-start-line="804" selection-start-column="0" selection-end-line="816" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
@@ -988,8 +59,18 @@
           <file leaf-file-name="style.sass" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/sass/style.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1079">
-                  <caret line="647" column="28" lean-forward="true" selection-start-line="647" selection-start-column="28" selection-end-line="647" selection-end-column="28" />
+                <state relative-caret-position="123">
+                  <caret line="866" column="0" lean-forward="true" selection-start-line="866" selection-start-column="0" selection-end-line="866" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_media.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sass/_media.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="413">
+                  <caret line="535" column="18" lean-forward="true" selection-start-line="535" selection-start-column="18" selection-end-line="535" selection-end-column="18" />
                   <folding />
                 </state>
               </provider>
@@ -998,8 +79,8 @@
           <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/js/common.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="515">
-                  <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+                <state relative-caret-position="1421">
+                  <caret line="124" column="0" lean-forward="true" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -1044,6 +125,9 @@
       <find>h3</find>
       <find>;</find>
       <find>order</find>
+      <find>&lt;form</find>
+      <find>left__desc</find>
+      <find>order-f</find>
     </findStrings>
     <replaceStrings>
       <replace>px</replace>
@@ -1068,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/sass/_base.sass" />
         <option value="$PROJECT_DIR$/src/sass/_vars.sass" />
         <option value="$PROJECT_DIR$/src/mobile/index.html" />
-        <option value="$PROJECT_DIR$/src/sass/_media.sass" />
         <option value="$PROJECT_DIR$/src/desctop/sass/_media.sass" />
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/first.html" />
@@ -1076,8 +159,11 @@
         <option value="$PROJECT_DIR$/src/css/header.css" />
         <option value="$PROJECT_DIR$/src/css/style.css" />
         <option value="$PROJECT_DIR$/src/mobile/sass/_base.sass" />
-        <option value="$PROJECT_DIR$/src/constructor.html" />
+        <option value="C:/WebServers/home/1test.loc/www/sony-z5/index.html" />
+        <option value="C:/WebServers/home/1test.loc/index.html" />
         <option value="$PROJECT_DIR$/src/js/common.js" />
+        <option value="$PROJECT_DIR$/src/constructor.html" />
+        <option value="$PROJECT_DIR$/src/sass/_media.sass" />
         <option value="$PROJECT_DIR$/src/sass/style.sass" />
       </list>
     </option>
@@ -1100,10 +186,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
+    <option name="x" value="1911" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1050" />
+    <option name="width" value="1458" />
+    <option name="height" value="870" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -1120,7 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1165,67 +251,9 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Raider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Raider" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobile" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Raider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Raider" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobile" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Raider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Raider" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1295,7 +323,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="1911" y="-9" width="1458" height="870" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1330,21 +358,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
-          <caret line="72" column="50" lean-forward="false" selection-start-line="72" selection-start-column="50" selection-end-line="72" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sass/header.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1394,7 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1463,7 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1532,7 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1576,7 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1605,13 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
           <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/_media.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1652,38 +654,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/first.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="804" column="0" lean-forward="true" selection-start-line="804" selection-start-column="0" selection-end-line="816" selection-end-column="6" />
+        <state relative-caret-position="17688">
+          <caret line="804" column="0" lean-forward="false" selection-start-line="804" selection-start-column="0" selection-end-line="816" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/constructor.html">
+    <entry file="file://C:/WebServers/home/1test.loc/www/sony-z5/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="54" column="14" lean-forward="true" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        <state relative-caret-position="377">
+          <caret line="826" column="116" lean-forward="false" selection-start-line="826" selection-start-column="116" selection-end-line="826" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/WebServers/home/1test.loc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="887" column="0" lean-forward="true" selection-start-line="887" selection-start-column="0" selection-end-line="887" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+        <state relative-caret-position="1421">
+          <caret line="124" column="0" lean-forward="true" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constructor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="967">
+          <caret line="684" column="26" lean-forward="true" selection-start-line="684" selection-start-column="26" selection-end-line="684" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/_media.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="535" column="18" lean-forward="true" selection-start-line="535" selection-start-column="18" selection-end-line="535" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sass/style.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1079">
-          <caret line="647" column="28" lean-forward="true" selection-start-line="647" selection-start-column="28" selection-end-line="647" selection-end-column="28" />
+        <state relative-caret-position="123">
+          <caret line="866" column="0" lean-forward="true" selection-start-line="866" selection-start-column="0" selection-end-line="866" selection-end-column="0" />
           <folding />
         </state>
       </provider>
