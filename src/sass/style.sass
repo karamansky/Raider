@@ -5,621 +5,6 @@
 .phone-show
 	display: none
 
-#menu
-	margin-bottom: -4px
-	position: relative
-
-.menu__body
-	overflow: hidden
-	img
-		width: 100%
-
-
-	.menu__item
-		display: inline-block
-		width: 22.555%
-		height: 41%
-		position: absolute
-		text-align: center
-		color: $light-text-color
-		&:hover
-			color: $leaf-green-color
-			background: url("../images/menu-border.png") center 0 no-repeat
-			background-size: cover
-		h2
-			text-align: center
-			text-transform: uppercase
-			margin: 25px auto 0 auto
-			width: 80%
-
-
-	.first
-		background: url("../images/menu_1.png") top no-repeat
-		background-size: 100%
-		left: 26.048%
-		top: 10.43%
-		&:hover
-			background: url("../images/menu-border.png") center 0 no-repeat, url("../images/menu_1.png") top no-repeat
-			background-size: 100%
-
-	.second
-		background: url("../images/menu_2.png") top no-repeat
-		background-size: 100%
-		right: 16.98%
-		top: 10.43%
-		&:hover
-			background: url("../images/menu-border.png") center 0 no-repeat, url("../images/menu_2.png") top no-repeat
-			background-size: 100%
-
-	.menu__caption
-		display: inline-block
-		width: 22.555%
-		height: 41%
-		position: absolute
-		text-align: center
-		color: $light-text-color
-		background: url("../images/menu_caption_bg.png") top no-repeat
-		background-size: 101%
-		padding-top: 3.7%
-
-		span
-			font-size: 60px
-			font-family: $bold
-
-		p
-			width: 88%
-			margin: 0 auto
-			font-size: 20px
-			line-height: 26px
-
-	.one
-		left: 9.03%
-		top: 31.25%
-
-	.two
-		left: 26.3%
-		top: 52%
-
-	.three
-		right: 33.9%
-		top: 31.25%
-
-	.four
-		right: 16.8%
-		top: 52%
-
-
-#solution
-	background: #000 url("../images/solution-bg.jpg") center no-repeat
-	background-size: cover
-
-	.solution__body
-		padding: 35px 0
-		overflow: hidden
-		color: $light-text-color
-		h3
-			text-align: center
-			position: relative
-			margin-bottom: 70px
-			&:after
-				content: " "
-				display: block
-				width: 80px
-				height: 1px
-				background: $green-color
-				margin-left: -40px
-				position: absolute
-				left: 50%
-				bottom: -17px
-
-		.left
-			width: 49%
-			float: left
-			overflow: hidden
-
-			.description
-				border: 1px solid $green-color
-				background: rgba(21, 111, 107, .1)
-				padding: 25px 15px
-				max-height: 420px
-
-			.description__imgBox
-				width: 50%
-				display: table-cell
-				vertical-align: top
-
-			.description__textBox
-				display: table-cell
-				padding-left: 12%
-				h4
-					color: #cce6c4
-					position: relative
-					margin-bottom: 20px
-					line-height: 25px
-					&:after
-						position: absolute
-						content: " "
-						display: block
-						width: 170px
-						height: 1px
-						left: 0
-						bottom: -10px
-						background: #566d5f
-						background: -moz-linear-gradient(left,  #566d5f 0%, #152928 100%)
-						background: -webkit-linear-gradient(left,  #566d5f 0%,#152928 100%)
-						background: linear-gradient(to right,  #566d5f 0%,#152928 100%)
-						filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#566d5f', endColorstr='#152928',GradientType=1 )
-
-				ul
-					min-height: 160px
-					padding-top: 15px
-					li
-						font-size: 18px
-						line-height: 26px
-
-			.price-box
-				p
-					font-size: 24px
-					margin-bottom: 15px
-					span:first-child
-						color: #cce6c4
-						margin-right: 25px
-
-				.btn
-					font-size: 20px
-					padding: 8px 20px
-
-			.option
-				margin: 45px 0 0 0
-				h4
-					color: #cce6c4
-					margin-bottom: 25px
-
-				li
-					overflow: hidden
-					margin-bottom: 20px
-					.tr
-						display: table-row
-						vertical-align: top
-					.td
-						display: table-cell
-						vertical-align: top
-					.td:last-child
-						width: 25%
-						padding-left: 11.34%
-
-				input[type=checkbox]
-					display: none
-
-				label
-					float: left
-					display: block
-					width: 18px
-					height: 18px
-					border: 1px solid $green-color
-					margin: 0 40px 0 30px
-
-				input[type=checkbox]:checked + label:before
-					width: 18px
-					height: 18px
-					display: block
-					content: ""
-					background: url("../images/ok-arrow.png") 2px center no-repeat
-
-		.right
-			width: 49%
-			float: right
-			overflow: hidden
-
-			.tabs
-				position: relative
-				overflow: hidden
-
-			.tab__item
-				border-bottom: 1px solid $green-color
-
-			input
-				display: none
-
-			label.tab-btn
-				display: block
-				cursor: pointer
-				background: $green-color
-				color: $light-text-color
-				font-size: 20px
-				line-height: 25px
-				font-family: $regular
-				height: 55px
-				position: relative
-				top: 0
-				padding: 15px
-				float: left
-				width: 33.333333%
-				letter-spacing: 1px
-				text-align: center
-				box-sizing: border-box
-				-webkit-transition: all 150ms ease 0s
-				transition: all 150ms ease 0s
-				margin: 2px 0 0 0
-				border-right: 1px solid #000
-			#tab3 + label
-				border-right: 0
-
-			input:checked + label.tab-btn
-				background: #138f8b
-				height: 57px
-				margin-top: 0
-				line-height: 33px
-				cursor: pointer
-
-			.tab
-				display: none
-				padding: 5px 10px
-				clear: left
-				transition: all .3s
-
-			.content
-				max-height: 700px
-				height: auto
-				width: 100%
-				float: left
-				position: relative
-				padding: 15px 0 15px 20px
-				background: rgba(21, 111, 107, .1)
-				border: 1px solid $green-color
-				box-sizing: border-box
-				transition: all .5s
-				.scroll
-					max-height: 660px
-
-
-			input:nth-of-type(1):checked ~ .content .tab:nth-of-type(1),
-			input:nth-of-type(2):checked ~ .content .tab:nth-of-type(2),
-			input:nth-of-type(3):checked ~ .content .tab:nth-of-type(3)
-				display: block
-
-			.mCSB_scrollTools .mCSB_draggerRail
-				width: 4px
-				background: $green-color
-
-			.tab__item
-				padding-top: 15px
-				&:first-child
-					padding-top: 0
-
-		.check-wrapper
-			display: table-cell
-			vertical-align: middle
-			text-align: center
-
-			input[type=radio]
-				display: none
-
-			label.chkbox
-				float: left
-				display: block
-				width: 18px
-				height: 18px
-				border: 1px solid $green-color
-				margin: 0 25px 0 0
-
-			input[type=radio]:checked + label:before
-				width: 18px
-				height: 18px
-				display: block
-				content: ""
-				background: url("../images/ok-arrow.png") 2px center no-repeat
-
-		.desc-wrap
-			vertical-align: top
-			display: table-cell
-			p
-				line-height: 22px
-				margin-bottom: 10px
-				&:nth-child(2)
-					color: #386362
-
-			a
-				color: $yellow-color
-				font-size: 18px
-				line-height: 22px
-				display: inline-block
-				margin-bottom: 18px
-				&:hover
-					text-decoration: underline
-
-		.price-wrap
-			width: 23%
-			text-align: right
-			display: table-cell
-			vertical-align: middle
-			padding-left: 25px
-			font-size: 22px
-			line-height: 20px
-
-		.additional__desc
-			display: none
-			background: $green-color
-			position: absolute
-			left: 0
-			right: 0
-			top: 0
-			bottom: 0
-			padding: 15px 22px
-			z-index: 2
-			overflow: hidden
-			a
-				display: inline-block
-				float: right
-
-			h4
-				padding-top: 40px
-				color: $yellow-color
-				position: relative
-				display: inline-block
-				&:after
-					position: absolute
-					content: " "
-					display: block
-					width: 280px
-					height: 1px
-					left: 0
-					bottom: -11px
-					background: #566d5f
-					background: -moz-linear-gradient(left,  #5b9c8d 0%, #146d6b 100%)
-					background: -webkit-linear-gradient(left,  #5b9c8d 0%,#146d6b 100%)
-					background: linear-gradient(to right,  #5b9c8d 0%,#146d6b 100%)
-					filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5b9c8d', endColorstr='#146d6b',GradientType=1 )
-
-			.desc__table
-				margin-top: 28px
-				.tr
-					display: table-row
-					.td
-						width: 50%
-						display: table-cell
-						color: $light-text-color
-						font-size: 18px
-						line-height: 22px
-						padding-bottom: 5px
-						&:last-child
-							color: #082525
-
-		.additional_inner
-			max-height: 650px
-
-#slider
-	.slider-wrapper
-		background: #000 url("../images/slider-bg.jpg") center no-repeat
-		background-size: cover
-		padding: 100px 0
-		position: relative
-
-	h2
-		color: $yellow-color
-		text-transform: uppercase
-		margin-bottom: 35px
-		
-	.table
-		display: table
-		.tr
-			display: table-row
-		.td
-			display: table-cell
-			vertical-align: top
-			padding-bottom: 20px
-
-	.number
-		color: $light-text-color
-		background: $leaf-green-color
-		display: block
-		width: 38px
-		height: 38px
-		line-height: 38px
-		font-size: 26px
-		text-align: center
-		margin-right: 54px
-		margin-top: 8px
-
-	p
-		font-size: 28px
-		line-height: 34px
-		color: $light-text-color
-
-	.tr .td:last-child span
-		font-size: 24px
-		line-height: 30px
-		color: $leaf-green-color
-
-	.owl-controls
-		display: none !important
-
-	.prev, .next
-		position: absolute
-		padding: 50px 0 0 0
-		margin-top: -70px
-		width: 50px
-		height: 90px
-		text-align: center
-		background: rgba(19, 111, 108, .3)
-		cursor: pointer
-		z-index: 2
-		&:hover
-			background: $green-color
-	.prev
-		left: 0
-		top: 50%
-	.next
-		right: 0
-		top: 50%
-
-
-
-#footer
-	.footer-wrapper
-		background: #000 url("../images/footer-bg.jpg") center no-repeat
-		background-size: cover
-
-	.footer
-		padding: 60px 0
-		color: $light-text-color
-		overflow: hidden
-
-		.column
-			float: left
-
-		.column:first-child
-			width: 23.23%
-			margin-right: 2.336%
-
-		.column:nth-child(2)
-			width: calc(40.28% - 100px)
-			margin-right: 2.336%
-			padding-right: 100px
-			p
-				font-size: 24px
-				line-height: 30px
-
-		.column:last-child
-			width: 31.75%
-
-	h4
-		text-transform: uppercase
-		margin-bottom: 15px
-
-	li
-		margin-bottom: 20px
-		overflow: hidden
-		a
-			display: block
-			width: 40px
-			height: 40px
-			float: left
-			margin-right: 20px
-		.fb
-			background: url("../images/fb.png") 0 0 no-repeat
-			&:hover
-				background: url("../images/fb.png") 0 -40px no-repeat
-		.vk
-			background: url("../images/vk.png") 0 0 no-repeat
-			&:hover
-				background: url("../images/vk.png") 0 -40px no-repeat
-
-	.ff-wrapper
-		input[type=text],
-		input[type=email],
-		textarea
-			color: $light-text-color
-			font-family: $regular
-			font-size: 18px
-			border: 1px solid $light-text-color
-			background: transparent
-			width: calc(100% - 30px)
-			max-width: calc(100% - 30px)
-			padding: 5px 5px 7px 20px
-			margin-bottom: 20px
-		textarea
-			height: 166px
-			max-height: 166px
-		input::-webkit-input-placeholder,
-		textarea::-webkit-input-placeholder
-			font-family: $regular
-			color: $light-text-color
-		input::-moz-placeholder,
-		textarea::-moz-placeholder
-			font-family: $regular
-			color: $light-text-color
-		input:-moz-placeholder,
-		textarea:-moz-placeholder
-			font-family: $regular
-			color: $light-text-color
-		input:-ms-input-placeholder,
-		textarea:-ms-input-placeholder
-			font-family: $regular
-			color: $light-text-color
-
-	.captcha-wrapper
-		overflow: hidden
-		input[type=text]
-			float: left
-			width: calc(50% - 47px)
-
-		input:first-child
-			margin-right: 35px
-
-	input.btn
-		font-size: 22px
-		padding-top: 5px
-		padding-bottom: 7px
-		width: 214px
-		margin-left: calc(50% - 107px)
-		border: none
-		font-family: $regular
-
-
-.copy
-	background: #140903
-	color: $light-text-color
-	padding: 20px
-	font-family: $regular
-	text-align: center
-
-#order-form
-	background: $green-color
-	width: 460px
-	padding: 15px 22px
-	margin: 0 auto
-	h4
-		font-family: $regular
-		padding-top: 40px
-		color: #cce6c4
-		position: relative
-		display: inline-block
-
-	a.close_popup
-		display: inline-block
-		float: right
-
-	input,
-	input,
-	textarea
-		color: $light-text-color
-		font-family: $regular
-		font-size: 18px
-		border: 1px solid $light-text-color
-		background: transparent
-		width: calc(100% - 30px)
-		max-width: calc(100% - 30px)
-		padding: 5px 5px 7px 20px
-		margin-top: 20px
-	textarea
-		height: 115px
-		max-height: 115px
-	input::-webkit-input-placeholder,
-	textarea::-webkit-input-placeholder
-		font-family: $regular
-		color: $light-text-color
-	input::-moz-placeholder,
-	textarea::-moz-placeholder
-		font-family: $regular
-		color: $light-text-color
-	input:-moz-placeholder,
-	textarea:-moz-placeholder
-		font-family: $regular
-		color: $light-text-color
-	input:-ms-input-placeholder,
-	textarea:-ms-input-placeholder
-		font-family: $regular
-		color: $light-text-color
-
-	.btn
-		padding-left: 0
-		padding-right: 0
-		border: none
-		background: #0b4543
-		width: 214px
-		margin-left: calc(50% - 107px)
-
 /**************************************************************************/
 /**** constructor ****/
 #constructor
@@ -629,59 +14,41 @@
 	.constructor
 		max-width: 1455px
 		margin: 0 auto
-		padding: 20px 0 195px 0
+		padding: 20px 0 30px 0
 
 		.constructor__save
-			width: 80px
-			height: 138px
 			text-align: center
 			background: rgba(21, 111, 107, .5)
 			position: fixed
-			right: 0
-			top: 255px
+			left: 0
+			top: 180px
 			z-index: 10
+			padding: 3px 10px 3px 17px
+			overflow: hidden
 			a
+				width: 25px
+				height: 25px
 				display: block
-				padding-top: 20px
-				& + span
-					display: none
-					width: 100px
-					text-align: center
-					padding: 3px 0 5px 0
-					position: absolute
-					left: -122px
-					margin-top: -35px
-					color: $light-text-color
-					background: rgba(21, 111, 107, .5)
-					z-index: 10
-					&:after
-						content: " "
-						position: absolute
-						right: -13px
-						border: 7px solid transparent
-						width: 0
-						height: 0
-						margin-top: 4px
-						border-left-color: rgba(21, 111, 107, .5)
-						float: right
+				float: left
+				padding-right: 10px
 
 				img
-					opacity: 0.5
+					opacity: 0.4
 				&:hover img
 					opacity: 1
 
 		.logo
 			display: block
-			width: 100%
+			width: 213px
 
 		h3
-			padding-top: 95px
+			padding-top: 35px
 			color: $yellow-color
 			text-transform: uppercase
 			text-align: center
 			position: relative
-			font-size: 30px
-			margin-bottom: 120px
+			font-size: 18px
+			margin-bottom: 50px
 			&:after
 				content: " "
 				display: block
@@ -700,6 +67,7 @@
 	.tabs
 		position: relative
 		display: inline-block
+		margin-top: 20px
 		width: 100%
 
 		.tab__item
@@ -715,27 +83,24 @@
 			cursor: pointer
 			background: $green-color
 			color: $light-text-color
-			font-size: 20px
-			line-height: 25px
+			font-size: 16px
+			line-height: 39px
 			font-family: $regular
-			height: 55px
+			height: auto
 			position: relative
 			top: 0
-			padding: 15px
-			width: 300px
+			width: 33.3%
 			letter-spacing: 1px
 			text-align: center
 			box-sizing: border-box
 			-webkit-transition: all 150ms ease 0s
 			transition: all 150ms ease 0s
-			margin: 2px 0 0 0
 			border-right: 1px solid #000
 		#tab3 + label
 			border-right: 0
 
 		input:checked + label.tab-btn
 			background: #138f8b
-			margin-top: 2px
 			cursor: pointer
 
 		.tab
@@ -748,9 +113,6 @@
 			border-top: 1px solid $green-color
 			box-sizing: border-box
 			transition: all .5s
-			.scroll
-				max-height: 660px
-
 
 		input:nth-of-type(1):checked ~ .content .tab:nth-of-type(1),
 		input:nth-of-type(2):checked ~ .content .tab:nth-of-type(2),
@@ -815,33 +177,18 @@
 					background: linear-gradient(to right,  #43655a 0%,#668b7b 100%)
 					filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#43655a', endColorstr='#668b7b',GradientType=1 )
 
-			.description__body
-				.tr
-					display: table-row
-					.td
-						display: table-cell
-						padding-bottom: 10px
-						&:last-child
-							padding-left: 65px
-
-				.tr:last-child .td
-					font-size: 18px
-					font-family: $bold
-					color: #082525
-					padding-bottom: 33px
-
 		.right
-			width: 56.75%
+			width: 100%
 			min-height: 100px
-			//overflow: hidden
 			float: right
-
 
 		.right__select-box
 			background: rgba(21, 111, 107, .5)
 			border: 1px solid $green-color
-			padding: 30px 25px 0 25px
+			padding: 0 0 18px 0
 			margin-bottom: 30px
+			position: relative
+			overflow: hidden
 
 		.icon
 			display: block
@@ -854,113 +201,89 @@
 				content: ""
 				position: absolute
 
-		.dropp
-			width: 100%
-			border: 1px solid $light-text-color
-			margin-bottom: 30px
-			position: relative
-
-		.dropp-header
-			background: transparent
-			color: $light-text-color
-			position: relative
-
-		.dropp-header__title
+		.select-box__item
 			display: block
-			padding: 9px 50px 9px 20px
-			font-size: 18px
-			line-height: 40px
-			flex: 8
-
-		.dropp-header__title.added
-			line-height: 22px
-			padding: 8px 50px 8px 20px
-
-
-		.dropp-header__btn
-			display: block
-			background: transparent
-			color: $light-text-color
-			padding: 15px 0 13px 0
-			width: 100%
-			transition: all .3s ease-in-out
-			position: absolute
-			top: 0
-
-			.icon
-				padding-right: 16px
-				float: right
-				transition: all .3s ease-in-out
-				display: block
-				background: url("../images/select-arrow-down.png") center no-repeat
-
-			&.js-open
-				background: transparent
-				.icon
-					transform: rotate(180deg)
-					&:before,&:after
-						background: $light-text-color
-
-			&:focus
-				outline: none
-
-		.dropp-body
-			overflow: hidden
-			width: 100%
-			max-height: 0
-			background: lighten($green-color, 2)
-			color: $light-text-color
-			transition: all .3s ease-in-out
-			position: absolute
-			top: 58px
-			z-index: 1
-			left: -1px
-			border: 1px solid $light-text-color
-			display: none
-			.scroll-select
-				max-height: 470px
-
-			&.js-open
-				max-height: 470px
-				display: block
-
-			.mCSB_scrollTools .mCSB_draggerRail
-				width: 35px!important
-				background: #0f5552!important
-				border-radius: 0
-				margin-left: -17px
-
-			.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar
-				width: 35px!important
-				border-radius: 0
-				background: #138f8b!important
-				margin-left: -17px
-
-			label
-				display: block
-				font-size: 18px
-				line-height: 22px
+			width: 50%
+			text-align: center
+			float: left
+			padding-top: 20px
+			p
 				color: $light-text-color
-				text-decoration: none
-				padding: 7px 20px 9px 20px
-				font-weight: 400
-				cursor: pointer
-				background: #156f6b
+			img
+				margin: 0 auto 15px auto
 
-				&:nth-child(2n)
-					background: #277b77
+		.mCSB_scrollTools .mCSB_draggerRail
+			width: 35px!important
+			background: #0f5552!important
+			border-radius: 0
+			margin-left: -17px
 
-				&:first-child
-					box-shadow: none
+		.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar
+			width: 35px!important
+			border-radius: 0
+			background: #138f8b!important
+			margin-left: -17px
 
-				&:hover
-					background: lighten($green-color, 5)
 
-				&.checked
-					background: rgba(204, 230, 196, 0.5)
+.description
+	width: 416px
 
-				> input
-					display: none
+.description, .comlect__item
+	padding: 25px 15px
+	position: absolute
+	border: 1px solid $light-green-color
+	background: $green-color
+	transition: all .3s
+	margin: 0 auto
+	z-index: 3
+
+	.mfp-close
+		display: none !important
+
+	.close_popup
+		position: absolute
+		right: 13px
+		top: 10px
+
+	h4
+		font-size: 14px
+		line-height: 14px
+		position: relative
+		display: inline-block
+		margin-bottom: 20px
+		color: $yellow-color
+		&:after
+			position: absolute
+			content: " "
+			display: block
+			width: 280px
+			height: 1px
+			left: 0
+			bottom: -8px
+			background: #43655a
+			background: -moz-linear-gradient(left,  #43655a 0%, #668b7b 100%)
+			background: -webkit-linear-gradient(left,  #43655a 0%,#668b7b 100%)
+			background: linear-gradient(to right,  #43655a 0%,#668b7b 100%)
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#43655a', endColorstr='#668b7b',GradientType=1 )
+
+
+.description__body
+	color: #082525
+	.tr
+		display: table-row
+		.td
+			display: table-cell
+			padding-bottom: 10px
+			font-size: 12px
+			&:last-child
+				color: $light-text-color
+				padding-left: 60px
+
+	.tr:last-child .td
+		font-size: 14px
+		font-family: $bold
+		color: #082525
+		padding-bottom: 0
 
 		.item__price-wrap
 			float: right
@@ -968,24 +291,298 @@
 
 		.parameters
 			color: #082525
-			
-		.btn-box__price
-			background: $leaf-green-color
-			padding: 15px 40px 15px 25px
-			width: calc(50% - 80px)
+
+.btn-box__price
+	background: $leaf-green-color
+	padding: 12px 14px
+	width: calc(50% - 29px)
+	float: left
+	color: $light-text-color
+	font-family: $bold
+	font-size: 16px
+	span:nth-child(2)
+		float: right
+
+.right__btn-box a
+	font-size: 16px
+	float: right
+	padding: 12px 0
+	text-align: center
+	width: calc(50% - 15px)
+
+#constructor .tabs .comlect__item
+	font-size: 12px
+	line-height: 12px
+	max-height: 550px
+	z-index: 2
+	p
+		font-size: 12px
+		line-height: 12px
+
+	h4
+		&:after
+			display: none
+
+	.scroll-wrap
+		border: 1px solid $light-text-color
+		padding-left: 12px
+
+		.scroll
+			max-height: 446px
+
+	.mCSB_scrollTools .mCSB_draggerRail
+		width: 13px!important
+		background: #0f5552!important
+		border-radius: 0
+		margin-left: 3px
+
+	.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar
+		width: 13px!important
+		border-radius: 0
+		background: #138f8b!important
+		margin-left: 3px
+
+	.tab__item
+		padding-top: 10px
+		border-bottom: 1px solid $light-green-color
+
+	.check-wrapper
+		display: table-cell
+		vertical-align: middle
+		text-align: center
+
+		input[type=radio]
+			display: none
+
+		label.chkbox
 			float: left
+			display: block
+			width: 10px
+			height: 10px
+			border: 1px solid #082525
+			margin: 0 12px 0 0
+
+		input[type=radio]:checked + label:before
+			width: 10px
+			height: 10px
+			display: block
+			content: ""
+			background: url("../images/ok-arrow-dark.png") 1px center no-repeat
+
+	.desc-wrap
+		vertical-align: top
+		display: table-cell
+		p
 			color: $light-text-color
-			font-family: $bold
-			font-size: 24px
-			span:nth-child(2)
-				float: right
+			font-size: 12px
+			line-height: 12px
+			margin-bottom: 5px
+			&:nth-child(2)
+				color: #082525
 
-		.right__btn-box a
-			float: right
-			padding: 16px 0
-			text-align: center
-			width: calc(50% - 15px)
+		a
+			color: $yellow-color
+			font-size: 12px
+			line-height: 12px
+			display: inline-block
+			margin-bottom: 12px
+			&:hover
+				text-decoration: underline
 
+	.price-wrap
+		width: 23%
+		text-align: right
+		display: table-cell
+		vertical-align: top
+		font-size: 14px
+		line-height: 14px
+		color: $light-text-color
+
+
+.close_show
+	position: absolute
+	right: 13px
+	top: 10px
+
+
+#footer
+	.footer-wrapper
+		background: #000 url("../images/footer-bg.jpg") center no-repeat
+		background-size: cover
+
+	.footer
+		padding: 32px 0
+		color: $light-text-color
+		overflow: hidden
+
+		.column
+			float: left
+
+		.column:first-child
+			width: 50%
+
+		.column:nth-child(2)
+			width: 50%
+
+		.column:last-child
+			width: 100%
+
+	h4
+		text-transform: uppercase
+		margin-bottom: 15px
+		font-size: 16px
+		line-height: 20px
+
+	p
+		font-size: 12px
+		line-height: 14px
+
+	li
+		margin-bottom: 14px
+		overflow: hidden
+
+		a
+			display: block
+			width: 40px
+			height: 40px
+			float: left
+			margin-right: 20px
+			margin-bottom: 10px
+		.fb
+			background: url("../images/fb.png") 0 0 no-repeat
+			&:hover
+				background: url("../images/fb.png") 0 -40px no-repeat
+		.vk
+			background: url("../images/vk.png") 0 0 no-repeat
+			&:hover
+				background: url("../images/vk.png") 0 -40px no-repeat
+
+	.ff-wrapper
+		input[type=text],
+		input[type=email],
+		textarea
+			color: $light-text-color
+			font-family: $regular
+			font-size: 18px
+			border: 1px solid $light-text-color
+			background: transparent
+			width: calc(100% - 30px)
+			max-width: 100%
+			padding: 5px 5px 7px 20px
+			margin-bottom: 20px
+		textarea
+			height: 100px
+			max-height: 166px
+		input::-webkit-input-placeholder,
+		textarea::-webkit-input-placeholder
+			font-family: $regular
+			color: $light-text-color
+		input::-moz-placeholder,
+		textarea::-moz-placeholder
+			font-family: $regular
+			color: $light-text-color
+		input:-moz-placeholder,
+		textarea:-moz-placeholder
+			font-family: $regular
+			color: $light-text-color
+		input:-ms-input-placeholder,
+		textarea:-ms-input-placeholder
+			font-family: $regular
+			color: $light-text-color
+
+	.captcha-wrapper
+		overflow: hidden
+		input[type=text]
+			float: left
+			width: calc(100% - 30px)
+
+		input:first-child
+			margin-right: 35px
+
+	input.btn
+		font-size: 22px
+		padding-top: 5px
+		padding-bottom: 7px
+		width: 214px
+		margin-left: calc(50% - 107px)
+		border: none
+		font-family: $regular
+
+
+.copy
+	background: #140903
+	color: $light-text-color
+	padding: 12px
+	font-family: $regular
+	text-align: center
+	p
+		font-size: 14px
+
+#order-form
+	background: $green-color
+	width: 290px
+	padding: 30px
+	margin: 0 auto
+	position: relative
+	h4
+		font-family: $regular
+		padding-top: 10px
+		font-size: 14px
+		margin-left: -20px
+		color: #cce6c4
+		position: relative
+		display: inline-block
+
+	a.close_popup
+		position: absolute
+		right: 13px
+		top: 9px
+
+	input,
+	input,
+	textarea
+		color: $light-text-color
+		font-family: $regular
+		font-size: 12px
+		border: 1px solid $light-text-color
+		background: transparent
+		width: calc(100% - 30px)
+		max-width: calc(100% - 30px)
+		padding: 5px 5px 6px 15px
+		margin-top: 20px
+	textarea
+		height: 98px
+		max-height: 98px
+	input::-webkit-input-placeholder,
+	textarea::-webkit-input-placeholder
+		font-family: $regular
+		color: $light-text-color
+	input::-moz-placeholder,
+	textarea::-moz-placeholder
+		font-family: $regular
+		color: $light-text-color
+	input:-moz-placeholder,
+	textarea:-moz-placeholder
+		font-family: $regular
+		color: $light-text-color
+	input:-ms-input-placeholder,
+	textarea:-ms-input-placeholder
+		font-family: $regular
+		color: $light-text-color
+
+	.mfp-close
+		display: none
+
+	.btn
+		background: #0b4543
+		width: 150px
+		text-align: center
+		padding-left: 0
+		padding-right: 0
+		margin-left: calc(50% - 75px)
+		border: none
+		&:hover
+			background: #082525
 
 
 
